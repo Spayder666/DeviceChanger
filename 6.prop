@@ -1,0 +1,239 @@
+##
+# Beautiful Pixel Props https://t.me/Spayder666
+# By @Spayder666
+##
+
+###
+#-#
+###
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+
+ro.build.PDA=A546EXXU5AWHC
+ro.build.changelist=27100863
+
+ro.product.system_ext.board=a54xnsxx
+ro.product.product.board=a54xnsxx
+ro.product.board=a54xnsxx
+ro.product.odm.board=a54xnsxx
+ro.product.vendor.board=a54xnsxx
+
+# persist.radio.serialno=7d35f45A
+ro.boot.hardware.sku=A546EXXU5AWHC
+ro.boot.product.hardware.sku=A546EXXU5AWHC
+ro.bootloader=A546EXXU5AWHC
+ro.boot.bootloader=A546EXXU5AWHC
+ro.build.expect.bootloader=A546EXXU5AWHC
+# ro.soc.model=SM7250
+
+ro.product.product.brand=samsung
+ro.product.product.device=essi
+ro.product.product.manufacturer=samsung
+ro.product.product.model=SM-A546E
+ro.product.product.name=a54xnsxx
+ro.product.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.product.build.date.utc=1693305980
+ro.product.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.product.build.id=TP1A.220624.014
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=A546EXXU5AWHC
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+# end common build properties
+
+# begin PRODUCT_PRODUCT_PROPERTIES
+ro.support_one_handed_mode=true
+ro.charger.enable_suspend=true
+ro.opa.eligible_device=true
+ro.com.samsung.ime.bs_theme=true
+ro.com.samsung.ime.theme_id=5
+ro.com.samsung.ime.system_lm_dir=/product/usr/share/ime/samsung/d3_lms
+# end PRODUCT_PRODUCT_PROPERTIES
+#
+# from out/target/product/coral/obj/ETC/android_info_prop_intermediates/android_info.prop
+#
+
+###
+# end product/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=samsung
+ro.product.vendor.device=essi
+ro.product.vendor.manufacturer=samsung
+ro.product.vendor.model=SM-A546E
+ro.product.vendor.name=a54xnsxx
+ro.bootloader=A546EXXU5AWHC
+ro.boot.bootloader=A546EXXU5AWHC
+ro.build.expect.bootloader=A546EXXU5AWHC
+ro.build.expect.baseband=A546EXXU5AWHC
+
+ro.vendor.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.vendor.build.date.utc=1693305980
+ro.vendor.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.vendor.build.id=TP1A.220624.014
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=A546EXXU5AWHC
+ro.vendor.build.version.release=13
+ro.vendor.build.version.release_or_codename=13
+ro.vendor.build.version.sdk=33
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.vendor.build.security_patch=2023-08-01
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.bootimage.build.date.utc=1693305980
+ro.bootimage.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+# begin PRODUCT_PROPERTY_OVERRIDES
+persist.rcs.supported=1
+persist.sysui.monet=true
+#
+# from out/target/product/coral/obj/ETC/android_info_prop_intermediates/android_info.prop
+#
+
+
+# end PRODUCT_PROPERTY_OVERRIDES
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=samsung
+ro.product.odm.device=essi
+ro.product.odm.manufacturer=samsung
+ro.product.odm.model=SM-A546E
+ro.product.odm.name=a54xnsxx
+ro.odm.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.odm.build.date.utc=1693305980
+ro.odm.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.odm.build.id=TP1A.220624.014
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=A546EXXU5AWHC
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+#
+# from out/target/product/coral/obj/ETC/android_info_prop_intermediates/android_info.prop
+#
+
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=samsung
+ro.product.system.device=generic
+ro.product.system.manufacturer=samsung
+ro.product.system.model=mainline
+ro.product.system.name=mainline
+ro.system.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.system.build.date.utc=1693305980
+ro.system.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.system.build.id=TP1A.220624.014
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=A546EXXU5AWHC
+ro.system.build.version.release=13
+ro.system.build.version.release_or_codename=13
+ro.system.build.version.sdk=33
+# end common build properties
+
+# begin build properties
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014
+ro.build.version.incremental=A546EXXU5AWHC
+ro.build.version.sdk=33
+ro.build.version.release=13
+ro.build.version.release_or_codename=13
+ro.build.version.security_patch=2023-08-01
+ro.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.build.date.utc=1693305980
+ro.build.type=user
+ro.build.user=dpi
+ro.build.host=21DKG901
+ro.build.tags=release-keys
+ro.build.flavor=a54xnsxx-user
+ro.build.product=essi
+ro.build.description=a54xnsxx-user 13 TP1A.220624.014 A546EXXU5AWHC release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.product.brand=samsung
+ro.product.device=essi
+ro.product.manufacturer=samsung
+ro.product.model=SM-A546E
+ro.product.name=a54xnsxx
+# end extra's from /system/build.prop
+#
+# from out/target/product/coral/obj/ETC/android_info_prop_intermediates/android_info.prop
+#
+
+###
+# end system/system/build.prop
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=samsung
+ro.product.system_ext.device=essi
+ro.product.system_ext.manufacturer=samsung
+ro.product.system_ext.model=SM-A546E
+ro.product.system_ext.name=a54xnsxx
+ro.system_ext.build.date=Tue Aug 29 19:46:20 KST 2023
+ro.system_ext.build.date.utc=1693305980
+ro.system_ext.build.fingerprint=samsung/a54xnsxx/essi:13/TP1A.220624.014/A546EXXU5AWHC:user/release-keys
+ro.system_ext.build.id=TP1A.220624.014
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=A546EXXU5AWHC
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+# end common build properties
+#
+# from out/target/product/coral/obj/ETC/android_info_prop_intermediates/android_info.prop
+#
+
+###
+# end system_ext/etc/build.prop
+###
