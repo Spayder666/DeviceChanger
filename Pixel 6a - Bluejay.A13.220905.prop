@@ -1,0 +1,206 @@
+##
+# Beautiful Pixel Props https://t.me/PixelProps
+# By @T3SL4
+##
+
+###
+#-#
+###
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.product.brand=google
+ro.product.product.device=bluejay
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 6a
+ro.product.product.name=bluejay
+ro.product.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.product.build.date.utc=1661978604
+ro.product.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.product.build.id=TP1A.220905.004.A2
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=9014697
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+# end common build properties
+
+# begin PRODUCT_PRODUCT_PROPERTIES
+ro.support_one_handed_mode=true
+ro.charger.enable_suspend=true
+ro.opa.eligible_device=true
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+# end PRODUCT_PRODUCT_PROPERTIES
+
+###
+# end product/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=google
+ro.product.vendor.device=bluejay
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 6a
+ro.product.vendor.name=bluejay
+ro.vendor.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.vendor.build.date.utc=1661978604
+ro.vendor.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.vendor.build.id=TP1A.220905.004.A2
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=9014697
+ro.vendor.build.version.release=13
+ro.vendor.build.version.release_or_codename=13
+ro.vendor.build.version.sdk=33
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.vendor.build.security_patch=2022-09-05
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.bootimage.build.date.utc=1661978604
+ro.bootimage.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+# begin PRODUCT_PROPERTY_OVERRIDES
+persist.rcs.supported=1
+persist.sysui.monet=true
+# end PRODUCT_PROPERTY_OVERRIDES
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=google
+ro.product.odm.device=bluejay
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 6a
+ro.product.odm.name=bluejay
+ro.odm.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.odm.build.date.utc=1661978604
+ro.odm.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.odm.build.id=TP1A.220905.004.A2
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=9014697
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=google
+ro.product.system.device=generic
+ro.product.system.manufacturer=Google
+ro.product.system.model=mainline
+ro.product.system.name=mainline
+ro.system.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.system.build.date.utc=1661978604
+ro.system.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.system.build.id=TP1A.220905.004.A2
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=9014697
+ro.system.build.version.release=13
+ro.system.build.version.release_or_codename=13
+ro.system.build.version.sdk=33
+# end common build properties
+
+# begin build properties
+ro.build.id=TP1A.220905.004.A2
+ro.build.display.id=TP1A.220905.004.A2
+ro.build.version.incremental=9014697
+ro.build.version.sdk=33
+ro.build.version.release=13
+ro.build.version.release_or_codename=13
+ro.build.version.security_patch=2022-09-05
+ro.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.build.date.utc=1661978604
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-00012
+ro.build.tags=release-keys
+ro.build.flavor=bluejay-user
+ro.build.product=bluejay
+ro.build.description=bluejay-user 13 TP1A.220905.004.A2 9014697 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.product.brand=google
+ro.product.device=bluejay
+ro.product.manufacturer=Google
+ro.product.model=Pixel 6a
+ro.product.name=bluejay
+# end extra's from /system/build.prop
+
+###
+# end system/system/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=bluejay
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 6a
+ro.product.system_ext.name=bluejay
+ro.system_ext.build.date=Wed Aug 31 20:43:24 UTC 2022
+ro.system_ext.build.date.utc=1661978604
+ro.system_ext.build.fingerprint=google/bluejay/bluejay:13/TP1A.220905.004.A2/9014697:user/release-keys
+ro.system_ext.build.id=TP1A.220905.004.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=9014697
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
