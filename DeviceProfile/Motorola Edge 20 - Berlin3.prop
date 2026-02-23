@@ -1,4 +1,4 @@
-device_model_name=Motorola Edge 20 - Berlin2
+device_model_name=Motorola Edge 20 - Berlin
 
 ro.kernel=5.4.290-moto-gca100db17411
 ro.boot.hardware.sku=M7325
@@ -126,6 +126,7 @@ ro.product.build.version.incremental=afddce
 ro.product.build.version.release=13
 ro.product.build.version.release_or_codename=13
 ro.product.build.version.sdk=33
+
 
 
 
