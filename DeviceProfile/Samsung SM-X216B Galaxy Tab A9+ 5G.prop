@@ -1,3 +1,41 @@
+device_model_name=Samsung SM-S711B Galaxy S23 FE
+
+ro.kernel=5.10.142-android13-4-00317-gb97d201498gd2
+ro.boot.hardware.sku=XS1A4
+ro.build.expect.bootloader=S711BXXS1AWJ7
+ro.build.expect.baseband=S711BXXS1AWJ7
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-S711B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014.S711BXXS1AWJ7
+ro.build.version.incremental=S711BXXS1AWJ7
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-10-01
+ro.build.description=r11sxxx-user 13 TP1A.220624.014 S711BXXS1AWJ7 release-keys
+ro.build.fingerprint=samsung/r11sxxx/r11s:13/TP1A.220624.014/S711BXXS1AWJ7:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=21DKGB18
+ro.build.flavor=r11sxxx-user
+ro.build.date=Tue Oct 24 02:24:47 UTC 2023
+ro.build.date.utc=1698114287
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-S711B
+ro.product.vendor.brand=Samsung
+ro.product.vendor_dlkm.device=r11s
+ro.product.vendor_dlkm.manufacturer=Samsung
+ro.product.vendor_dlkm.model=SM-S711B
+ro.product.vendor_dlkm.name=r11sxxx
+#####################
+ro.build.PDA=S711BXXS1AWJ7
+ro.build.changelist=26337730
+
+
+
 
 ro.boot.dynamic_partitions=true
 ro.product.first_api_level=33
