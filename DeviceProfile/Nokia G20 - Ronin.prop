@@ -20,8 +20,8 @@ ro.build.flavor=Ronin_Natv-user
 ro.build.user=jenkins
 ro.build.host=f51f5f7c25e5
 ro.build.tags=release-keys
-ro.vendor.build.date=Wed Feb 21 21:33:32 UTC 2024
-ro.vendor.build.date.utc=1708551212
+ro.build.date=Wed Feb 21 21:33:32 UTC 2024
+ro.build.date.utc=1708551212
 #####################
 ro.product.vendor.board=Nokia
 ro.product.hardware=Nokia G20
@@ -36,3 +36,4 @@ ro.mediatek.version.branch=alps-mp-t0.mssi1
 ro.mediatek.version.release=alps-mp-t0.mp1.rc-V3.8.2_hmd.t0mp1rc.k6985v1.64_P53
 ro.netflix.channel=a0936ad0a17611eab9d55b5e87136a35
 ro.netflix.signup=1
+
