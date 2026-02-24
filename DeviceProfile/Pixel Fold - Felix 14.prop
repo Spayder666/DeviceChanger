@@ -1,0 +1,35 @@
+device_model_name=Pixel Fold - Felix A14
+
+ro.kernel=5.12-android14-1-00127-391u4798jk-ex
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=felix-14.0-10529422
+ro.build.expect.baseband=g5300q-230626-230818-B-10679446
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007
+ro.build.version.incremental=10754064
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-10-05
+ro.build.description=felix-user 14 UP1A.231005.007 10754064 release-keys
+ro.build.fingerprint=google/felix/felix:14/UP1A.231005.007/10754064:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-2004-0006
+ro.build.tags=release-keys
+ro.build.flavor=felix-user
+ro.build.date=Sat Sep  2 03:59:49 UTC 2023
+ro.build.date.utc=1693627189
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel Fold
+ro.product.product.brand=Google
+ro.product.vendor.device=Felix
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel Fold
+ro.product.vendor.name=Felix
+#####################
+
+ro.vendor.dolby.dax.version=DAX3_G_3.7.3.0_r1
