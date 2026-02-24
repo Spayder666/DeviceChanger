@@ -1,0 +1,33 @@
+device_model_name=Pixel 7a - Lynx A14
+
+ro.kernel=5.10.198-android13-4-00047-g7a2aa337ab82-ab11664978
+ro.boot.hardware.sku=gs201
+ro.build.expect.baseband=g5300q-240308-240517-B-11857457
+ro.build.expect.bootloader=lynx-14.5-12088398
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP2A.240905.003
+ro.build.display.id=AP2A.240905.003
+ro.build.version.incremental=12231197
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-09-05
+ro.build.description=lynx-user 14 AP2A.240905.003 12231197 release-keys
+ro.build.fingerprint=google/lynx/lynx:14/AP2A.240905.003/12231197:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-68354e84479a5a03-p2rn
+ro.build.tags=release-keys
+ro.build.flavor=lynx-user
+ro.build.date=Thu Aug 15 01:07:42 UTC 2024
+ro.build.date.utc=1723684062
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 7a
+ro.product.product.brand=Google
+ro.product.product.device=Lynx
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 7a
+ro.product.product.name=Lynx
+#####################
