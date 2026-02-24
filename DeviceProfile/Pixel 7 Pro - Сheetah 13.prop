@@ -19,7 +19,7 @@ ro.build.type=user
 ro.build.user=android-build
 ro.build.host=abfarm-release-2004-0181
 ro.build.tags=release-keys
-ro.build.flavor=panther-user
+ro.build.flavor=cheetah-user
 ro.build.date=Mon Jun 26 20:20:31 UTC 2023
 ro.build.date.utc=1687810831
 #####################
@@ -35,7 +35,8 @@ ro.product.vendor.board=Cheetah
 ro.soc.manufacturer=Google
 ro.soc.model=GS201
 
-ro.product.board=panther
+ro.product.board=cheetah
 ro.board.platform=gs201
 
 ro.soc.model=SM7250
+
