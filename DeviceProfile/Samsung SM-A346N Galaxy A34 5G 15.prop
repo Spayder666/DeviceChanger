@@ -1,0 +1,33 @@
+device_model_name=Samsung SM-A346N Galaxy A34 5G A15
+
+ro.kernel=5.5.92-775325092cg
+ro.boot.hardware.sku=tc10sp
+ro.build.expect.bootloader=A346EXXU9DYF4
+ro.build.expect.baseband=A346EXXU9DYF4
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-A346N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP3A.240905.015.A2
+ro.build.display.id=AP3A.240905.015.A2.A346EXXU9DYF4
+ro.build.version.incremental=A346EXXU9DYF4
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-02-01
+ro.build.description=a34xdxx-user 15 AP3A.240905.015.A2 A346EXXU9DYF4 release-keys
+ro.build.fingerprint=samsung/a34xdxx/a34x:15/AP3A.240905.015.A2/A346EXXU9DYF4:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6504
+ro.build.flavor=a34xdxx-user
+ro.build.date=Wed Jun 18 11:33:48 UTC 2025
+ro.build.date.utc=1750246428
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-A346N
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a34x
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A346N
+ro.product.vendor.name=a34xdxx
+#####################
