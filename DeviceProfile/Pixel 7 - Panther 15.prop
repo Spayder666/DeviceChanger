@@ -1,0 +1,39 @@
+device_model_name=Pixel 7 - Panther A15
+
+ro.kernel=5.15.73-android15-1-00835-1c34c08e23098-35080289dc
+ro.boot.hardware.sku=gs201
+ro.build.expect.baseband=g5300q-240308-240517-B-11857457
+ro.build.expect.bootloader=cloudripper-14.5-11677884
+
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP1A.250405.005.B1
+ro.build.display.id=BP1A.250405.005.B1
+ro.build.version.incremental=13151136
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-05
+ro.build.description=panther-user 15 BP1A.250405.005.B1 13151136 release-keys
+ro.build.fingerprint=google/panther/panther:15/BP1A.250405.005.B1/13151136:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-456ae1c9fa6a8c5c-3fps
+ro.build.tags=release-keys
+ro.build.flavor=panther-user
+ro.build.date=Mon Mar  3 19:42:28 UTC 2025
+ro.build.date.utc=1741030948
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 7
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Panther
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 7
+ro.product.vendor.name=Panther
+#####################
+ro.soc.manufacturer=Google
+ro.soc.model=GS201
+
+ro.product.board=panther
+ro.board.platform=gs201
