@@ -1,0 +1,40 @@
+device_model_name=Pixel 7 Pro - Cheetah A16
+
+ro.kernel=5.15.8-nd5vs87kjndgbk892a24
+ro.boot.hardware.sku=gs201
+ro.build.expect.baseband=g5300q-251104-251105-B-14386704
+ro.build.expect.bootloader=cloudripper-16.4-14330916
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Pixel 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=CP11.251114.007
+ro.build.display.id=CP11.251114.007
+ro.build.version.incremental=14621658
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-12-05
+ro.build.description=cheetah-user 16 CP11.251114.007 14621658 release-keys
+ro.build.fingerprint=google/cheetah/cheetah:16/CP11.251114.007/14621658:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=d0dbc8cd603e
+ro.build.tags=release-keys
+ro.build.flavor=cheetah-user
+ro.build.date=Fri Dec 19 22:43:13 UTC 2025
+ro.build.date.utc=1766184193
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 7 Pro
+ro.product.vendor.brand=google
+ro.product.vendor.device=Cheetah
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 7 Pro
+ro.product.vendor.name=Cheetah
+#####################
+ro.soc.manufacturer=Google
+ro.soc.model=GS201
+
+ro.product.board=Cheetah
+ro.board.platform=gs201
+
+ro.soc.model=SM7250
