@@ -1,0 +1,36 @@
+device_model_name=Pixel 6 - Oriole
+
+ro.build.expect.bootloader=slider-1.2-9152140
+ro.build.expect.baseband=g5123b-107485-221101-B-9242015
+ro.kernel=5.10.214-android13-4-00015-g54748cd9e7
+ro.boot.hardware.sku=gs201
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TQ1A.221205.011
+ro.build.display.id=TQ1A.221205.011
+ro.build.version.incremental=9244662
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-05
+ro.build.description=oriole-user 13 TQ1A.221205.011 9244662 release-keys
+ro.build.fingerprint=google/oriole/oriole:13/TQ1A.221205.011/9244662:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-2004-0089
+ro.build.tags=release-keys
+ro.build.flavor=oriole-user
+ro.build.date=Tue Nov  1 23:23:38 UTC 2022
+ro.build.date.utc=1667345018
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 6
+ro.product.vendor.brand=google
+ro.product.vendor.device=Oriole
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 6
+ro.product.vendor.name=Oriole
+#####################
+
+ro.product.board=oriole
+ro.board.platform=gs101
