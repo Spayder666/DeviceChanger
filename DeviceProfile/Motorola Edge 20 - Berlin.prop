@@ -23,13 +23,13 @@ ro.build.tags=release-keys
 ro.build.date.utc=1721233630
 ro.build.date=Wed Jul 17 16:27:10 UTC 2024
 #####################
-ro.product.vendor.board=berlin
-ro.product.hardware=berlin
-ro.product.vendor.brand=motorola
-ro.product.vendor.device=berlin
-ro.product.vendor.manufacturer=motorola
-ro.product.vendor.model=motorola edge 20
-ro.product.vendor.name=berlin_global
+ro.product.vendor.board=Berlin
+ro.product.hardware=Berlin
+ro.product.vendor.brand=Motorola
+ro.product.vendor.device=Berlin
+ro.product.vendor.manufacturer=Motorola
+ro.product.vendor.model=Motorola EDGE 20
+ro.product.vendor.name=Berlin_global
 #####################
 
 ro.build.PDA=X216BXXS1AXA1
@@ -40,6 +40,7 @@ ro.board.platform=lahaina
 ro.mot.build.guid=4b77f3979dbf4f8
 ro.vendor.mot.base_buildid=T1RG33.135-109-9/610c5-e16fc
 ro.vendor.build.version.qcom=LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+
 
 
 
