@@ -1,4 +1,4 @@
-device_model_name=Pixel 5a - Barbet
+device_model_name=Pixel 5a - Barbet A13
 
 ro.kernel=5.10.177-android13-4-00006-g4e221c34c08e-ab11035080
 ro.boot.hardware.sku=gs201
@@ -37,3 +37,4 @@ ro.board.platform=lito
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7250
 ro.netflix.bsp_rev=Q7250-19133-1
+
