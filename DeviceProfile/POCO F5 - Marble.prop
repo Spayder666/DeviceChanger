@@ -1,0 +1,42 @@
+device_model_name=POCO F5 - Marble
+
+ro.kernel=5.10.226-android12-9-00064-gea4a6f67d3f-ab12969919
+ro.boot.hardware.sku=SM7475
+ro.build.expect.bootloader=OS2.0.205.0.VMRMIXM
+ro.build.expect.baseband=MPSS.DE.2.0.c1-GLB
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; POCO F5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=SKQ1.221022.001
+ro.build.display.id=SKQ1.221022.001
+ro.build.version.incremental=V14.0.8.0.TMRMIXM
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-11-01
+ro.build.description=marble-user 13 SKQ1.221022.001 V14.0.8.0.TMRMIXM release-keys
+ro.build.fingerprint=Xiaomi/marble/marble:13/SKQ1.221022.001/V14.0.8.0.TMRMIXM:user/release-keys
+ro.build.type=user
+ro.build.user=builder
+ro.build.host=pangu-build-component-system-228232-t3gr4-kkh9s-b7kc4
+ro.build.tags=release-keys
+ro.build.flavor=missi_phone_global-user
+ro.build.date=Mon Dec 11 12:49:32 UTC 2023
+ro.build.date.utc=1702298972
+#####################
+ro.product.vendor.board=Xiaomi
+ro.product.hardware=Marble
+ro.product.vendor.brand=Xiaomi
+ro.product.vendor.device=Marble
+ro.product.vendor.manufacturer=Xiaomi
+ro.product.vendor.model=POCO F5
+ro.product.vendor.name=Marble
+#####################
+
+ro.board.platform=ums9230
+
+ro.vendor.dolby.dax.version=DAX3_3.6.1.6_r1
+ro.product.mod_device=marble_global
+
+
+
+
