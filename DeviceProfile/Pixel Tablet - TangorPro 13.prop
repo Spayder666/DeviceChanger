@@ -1,0 +1,33 @@
+device_model_name=Pixel Tablet - TangorPro A13
+
+ro.kernel=5.05.7-android13-1-00075-4798jk5329-cf
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=tangorpro-1.0-9584303
+ro.build.expect.baseband=g5300q-230626-230818-B-10679446
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TD2A.230203.028
+ro.build.display.id=TD2A.230203.028
+ro.build.version.incremental=9723176
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-05
+ro.build.description=tangorpro-user 13 TD2A.230203.028 9723176 release-keys
+ro.build.fingerprint=google/tangorpro/tangorpro:13/TD2A.230203.028/9723176:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-2004-0234
+ro.build.tags=release-keys
+ro.build.flavor=tangorpro-user
+ro.build.date=Fri Mar 10 05:33:11 UTC 2023
+ro.build.date.utc=1678426391
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel Fold
+ro.product.product.brand=Google
+ro.product.vendor.device=TangorPro
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel Tablet
+ro.product.vendor.name=TangorPro
+#####################
