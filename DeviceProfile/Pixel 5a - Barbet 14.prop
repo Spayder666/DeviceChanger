@@ -1,4 +1,4 @@
-device_model_name=Pixel 5a - Barbet
+device_model_name=Pixel 5a - Barbet A14
 
 ro.kernel=5.15-android13-4-00052-g21c34c08e391-ar
 ro.boot.hardware.sku=gs201
