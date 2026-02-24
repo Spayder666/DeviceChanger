@@ -1,16 +1,44 @@
-# ========== vendor/build.prop ==========
-# File 1 of 4
-# ============================================================
+device_model_name=Nokia G20 - Ronin
 
-####################################
-# from generate-common-build-props
-# These properties identify this partition image.
-####################################
+ro.kernel=5.4.210-android12-10-e14d76c258923gfd90
+ro.boot.hardware.sku=MT6765
+ro.build.expect.bootloader=RNN_162F-0-00WW-B08
+ro.build.expect.baseband=LR20A.R1.MP.V242.1.P2
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia G20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=00WW_3_430
+ro.build.version.incremental=00WW_3_430
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-02-05
+ro.build.description=Ronin_Natv-user 13 TP1A.220624.014 eng.jenkin.20240221.003742 release-keys
+ro.build.fingerprint=Nokia/Ronin_00WW/RNN_sprout:13/TP1A.220624.014/00WW_3_430:user/release-keys
+ro.build.type=user
+ro.build.flavor=Ronin_Natv-user
+ro.build.user=jenkins
+ro.build.host=f51f5f7c25e5
+ro.build.tags=release-keys
+ro.vendor.build.date=Wed Apr  3 04:52:48 UTC 2024
+ro.vendor.build.date.utc=1712119968
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia G22
 ro.product.vendor.brand=Nokia
 ro.product.vendor.device=SFI
 ro.product.vendor.manufacturer=HMD Global
 ro.product.vendor.model=Nokia G22
 ro.product.vendor.name=Sunfire_00WW
+#####################
+
+ro.mediatek.version.branch=alps-mp-t0.mssi1
+ro.mediatek.version.release=alps-mp-t0.mp1.rc-V3.8.2_hmd.t0mp1rc.k6985v1.64_P53
+ro.netflix.channel=a0936ad0a17611eab9d55b5e87136a35
+ro.netflix.signup=1
+
+
+
 ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
 ro.vendor.product.cpu.abilist64=arm64-v8a
@@ -612,5 +640,6 @@ ro.launcher.clearallonbottom=true
 ro.surface_flinger.set_idle_timer_ms=4000
 ro.surface_flinger.support_kernel_idle_timer=true
 # end of file
+
 
 
