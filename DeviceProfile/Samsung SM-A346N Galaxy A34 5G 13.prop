@@ -1,4 +1,4 @@
-device_model_name=Samsung SM-A346N Galaxy A34 5G
+device_model_name=Samsung SM-A346N Galaxy A34 5G A13
 
 ro.kernel=4.19.191-28577532abA346NKSU2AWE6
 ro.boot.hardware.sku=tc10sp
