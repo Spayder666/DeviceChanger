@@ -8,7 +8,7 @@ ro.build.expect.baseband=A346NKSU2AWE6
 ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-A346N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 ro.build.id=SP1A.210812.016
-ro.build.display.id=SP1A.210812.016
+ro.build.display.id=SP1A.210812.016.A346NKSU2AWE6
 ro.build.version.incremental=A346NKSU2AWE6
 ro.build.version.release=13
 ro.build.version.sdk=33
