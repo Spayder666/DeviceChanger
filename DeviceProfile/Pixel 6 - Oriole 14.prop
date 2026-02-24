@@ -1,4 +1,4 @@
-device_model_name=Pixel 6 - Oriole
+device_model_name=Pixel 6 - Oriole A14
 
 ro.build.expect.bootloader=slider-1.2-9152140
 ro.build.expect.baseband=g5123b-107485-221101-B-9242015
