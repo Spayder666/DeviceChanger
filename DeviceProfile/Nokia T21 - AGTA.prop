@@ -20,8 +20,8 @@ ro.build.flavor=agent-user
 ro.build.user=jenkins
 ro.build.host=ca01a1c35941
 ro.build.tags=release-keys
-ro.vendor.build.date=Mon Apr 15 14:52:06 UTC 2024
-ro.vendor.build.date.utc=1713192726
+ro.build.date=Mon Apr 15 14:52:06 UTC 2024
+ro.build.date.utc=1713192726
 #####################
 ro.product.vendor.board=Nokia
 ro.product.hardware=Nokia T21
@@ -33,6 +33,7 @@ ro.product.vendor.name=Agent_00WW
 #####################
 
 ro.board.platform=ums9230
+
 
 
 
