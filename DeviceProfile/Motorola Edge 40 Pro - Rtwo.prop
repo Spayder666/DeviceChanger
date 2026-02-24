@@ -1,149 +1,43 @@
 device_model_name=Motorola Edge 40 Pro - Rtwo
-
 ro.kernel=5.15.3-moto-android13-rtwo-7gxh47mr
-ro.boot.hardware.sku=M8550
-ro.build.expect.bootloader=MBM-3.0-rtwo-530814114ec-230426-T1TR
-ro.build.expect.baseband=M8550_DE30_24.2130.01.60.20R
+ro.boot.hardware.sku=XT2301-4
+ro.build.expect.bootloader=MBM-3.0-rtwo-2deafc9bb48-230417-T1TR33.43-20-28-8fa75
+ro.build.expect.baseband=M8550_DE30_30.2276.01.75.24R
 
-ro.product.product.brand=motorola
-# Removed by post_process_props.py because ro.product.product.device is a disallowed key
-#ro.product.product.device=msi
-ro.product.product.manufacturer=motorola
-ro.product.product.model=motorola edge 40 pro
-ro.product.product.name=rtwo_g
-ro.product.build.date=Mon Apr 17 11:42:29 UTC 2023
-ro.product.build.date.utc=1681731749
-ro.product.build.fingerprint=motorola/rtwo_g/msi:13/T1TR33M.43-20-28/44ae0:user/release-keys
-ro.product.build.id=T1TR33M.43-20-28
-ro.product.build.tags=release-keys
-ro.product.build.type=user
-ro.product.build.version.incremental=44ae0
-ro.product.build.version.release=13
-ro.product.build.version.release_or_codename=13
-ro.product.build.version.sdk=33
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Motorola Edge 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-ro.product.vndk.version=33
-ro.build.characteristics=nosdcard
-ro.product.ab_ota_partitions=product,system,system_ext
-
-
-ro.netflix.bsp_rev=Q8550-36432-1
-
-
-ro.product.system.brand=motorola
-ro.product.system.device=msi
-ro.product.system.manufacturer=motorola
-ro.product.system.model=motorola edge 40 pro
-ro.product.system.name=rtwo_g
-ro.system.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
-ro.system.product.cpu.abilist32=armeabi-v7a,armeabi
-ro.system.product.cpu.abilist64=arm64-v8a
-ro.system.build.date=Mon Apr 17 11:42:29 UTC 2023
-ro.system.build.date.utc=1681731749
-ro.system.build.fingerprint=motorola/rtwo_g/msi:13/T1TR33M.43-20-28/44ae0:user/release-keys
-ro.system.build.id=T1TR33M.43-20-28
-ro.system.build.tags=release-keys
-ro.system.build.type=user
-ro.system.build.version.incremental=44ae0
-ro.system.build.version.release=13
-ro.system.build.version.release_or_codename=13
-ro.system.build.version.sdk=33
-
-# Removed by post_process_props.py because ro.build.id is a disallowed key
-#ro.build.id=T1TR33M.43-20-28
-ro.build.keys=test-keys
-# Removed by post_process_props.py because ro.build.version.incremental is a disallowed key
-#ro.build.version.incremental=44ae0
-ro.build.version.ci=28
-ro.build.version.sdk=33
-ro.build.version.preview_sdk=0
-ro.build.version.preview_sdk_fingerprint=REL
-ro.build.version.codename=REL
-ro.build.version.all_codenames=REL
-ro.build.version.known_codenames=Base,Base11,Cupcake,Donut,Eclair,Eclair01,EclairMr1,Froyo,Gingerbread,GingerbreadMr1,Honeycomb,HoneycombMr1,HoneycombMr2,IceCreamSandwich,IceCreamSandwichMr1,JellyBean,JellyBeanMr1,JellyBeanMr2,Kitkat,KitkatWatch,Lollipop,LollipopMr1,M,N,NMr1,O,OMr1,P,Q,R,S,Sv2,Tiramisu
+ro.build.id=T1TR33M.43-20-28
+ro.build.display.id=T1TR33M.43-20-28
+ro.build.version.incremental=8fa75
 ro.build.version.release=13
-ro.build.version.release_or_codename=13
-ro.build.version.release_or_preview_display=13
+ro.build.version.sdk=33
 ro.build.version.security_patch=2023-04-01
-ro.build.version.min_supported_target_sdk=23
-ro.build.date=Mon Apr 17 11:42:29 UTC 2023
-ro.build.date.utc=1681731749
+ro.build.description=rtwo-user 13 T1TR33.43-20-28 8fa75 release-keys
+ro.build.fingerprint=motorola/rtwo/rtwo:13/T1TR33M.43-20-28/8fa75:user/release-keys
 ro.build.type=user
-ro.build.user=hudsongc
+ro.build.flavor=berlin_global-user
 ro.build.host=gcbuilds-def-t2d-standard-60-229-v0pmsb
+ro.build.user=hudsoncm
 ro.build.tags=release-keys
-# Removed by post_process_props.py because ro.build.flavor is a disallowed key
-#ro.build.flavor=rtwo_g-user
-ro.build.system_root_image=false
-# ro.product.cpu.abi and ro.product.cpu.abi2 are obsolete,
-# use ro.product.cpu.abilist instead.
-ro.product.cpu.abi=arm64-v8a
-ro.product.locale=en-US
-ro.wifi.channels=
-# Do not try to parse thumbprint
-# end build properties
-
-####################################
-# from generate-common-build-props
-# These properties identify this partition image.
-####################################
-ro.product.system_ext.brand=motorola
-ro.product.system_ext.device=msi
-ro.product.system_ext.manufacturer=motorola
-ro.product.system_ext.model=motorola edge 40 pro
-ro.product.system_ext.name=rtwo_g
-ro.system_ext.build.date=Mon Apr 17 11:42:29 UTC 2023
-ro.system_ext.build.date.utc=1681731749
-ro.system_ext.build.fingerprint=motorola/rtwo_g/msi:13/T1TR33M.43-20-28/44ae0:user/release-keys
-ro.system_ext.build.id=T1TR33M.43-20-28
-ro.system_ext.build.tags=release-keys
-ro.system_ext.build.type=user
-ro.system_ext.build.version.incremental=44ae0
-ro.system_ext.build.version.release=13
-ro.system_ext.build.version.release_or_codename=13
-ro.system_ext.build.version.sdk=33
-
+ro.build.date.utc=1681736367
+ro.build.date=Mon Apr 17 12:59:27 UTC 2023
+#####################
+ro.product.vendor.board=rtwo
+ro.product.hardware=rtwo
 ro.product.vendor.brand=motorola
 ro.product.vendor.device=rtwo
 ro.product.vendor.manufacturer=motorola
-ro.product.vendor.model=Kalama
+ro.product.vendor.model=motorola edge 40 pro
 ro.product.vendor.name=rtwo
-ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
-ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
-ro.vendor.product.cpu.abilist64=arm64-v8a
-ro.mot.build.guid=27bf3b8ef8a8c8e
-# Removed by post_process_props.py because ro.build.id is a disallowed key
-#ro.build.id=T1TR33.43-20-28
-# Removed by post_process_props.py because ro.build.display.id is a disallowed key
-#ro.build.display.id=
-# Removed by post_process_props.py because ro.build.description is a disallowed key
-#ro.build.description=rtwo-user 13 T1TR33.43-20-28 8fa75 test-keys
-ro.vendor.build.date=Mon Apr 17 12:59:27 UTC 2023
-ro.vendor.build.date.utc=1681736367
-ro.vendor.build.fingerprint=motorola/rtwo/rtwo:13/T1TR33.43-20-28/8fa75:user/release-keys
-ro.vendor.build.id=T1TR33.43-20-28
-ro.vendor.build.tags=release-keys
-ro.vendor.build.type=user
-ro.vendor.build.version.incremental=8fa75
-ro.vendor.build.version.release=13
-ro.vendor.build.version.release_or_codename=13
-ro.vendor.build.version.sdk=33
+#####################
 
-ro.vndk.version=33
-ro.bionic.arch=arm64
-ro.bionic.cpu_variant=kryo300
-ro.bionic.2nd_arch=arm
-ro.bionic.2nd_cpu_variant=cortex-a75
-persist.sys.dalvik.vm.lib.2=libart.so
-dalvik.vm.isa.arm64.variant=kryo300
-dalvik.vm.isa.arm64.features=default
-dalvik.vm.isa.arm.variant=cortex-a75
-dalvik.vm.isa.arm.features=default
-ro.minui.pixel_format=RGBX_8888
-ro.boot.dynamic_partitions=true
-ro.product.first_api_level=33
-ro.board.first_api_level=33
-ro.board.api_level=33
-ro.vendor.build.security_patch=2023-04-01
+ro.build.PDA=X216BXXS1AXA1
+ro.build.changelist=27531518
+--------
+
+ro.netflix.bsp_rev=Q8550-36432-1
+ro.mot.build.guid=27bf3b8ef8a8c8e
+
 ro.product.board=rtwo
 ro.board.platform=kalama
+
