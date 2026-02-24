@@ -1,27 +1,27 @@
 device_model_name=Samsung SM-A346N Galaxy A34 5G A14
 
-ro.kernel=4.19.191-28577532abA346NKSU2AWE6
+ro.kernel=4.19.191-28577532abA346EXXS9CYA2
 ro.boot.hardware.sku=tc10sp
-ro.build.expect.bootloader=A346NKSU2AWE6
-ro.build.expect.baseband=A346NKSU2AWE6
+ro.build.expect.bootloader=A346EXXS9CYA2
+ro.build.expect.baseband=A346EXXS9CYA2
 
 ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A346N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-ro.build.id=SP1A.210812.016
-ro.build.display.id=SP1A.210812.016.A346NKSU2AWE6
-ro.build.version.incremental=A346NKSU2AWE6
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.A346EXXS9CYA2
+ro.build.version.incremental=A346EXXS9CYA2
 ro.build.version.release=14
 ro.build.version.sdk=34
-ro.build.version.security_patch=2023-05-01
-ro.build.description=a34xks-user 14 SP1A.210812.016 A346NKSU2AWE6 release-keys
-ro.build.fingerprint=samsung/a34xks/a34x:12/SP1A.210812.016/A346NKSU2AWE6:user/release-keys
+ro.build.version.security_patch=2025-02-01
+ro.build.description=a34xdxx-user 14 UP1A.231005.007 A346EXXS9CYA2 release-keys
+ro.build.fingerprint=samsung/a34xdxx/a34x:14/UP1A.231005.007/A346EXXS9CYA2:user/release-keys
 ro.build.type=user
 ro.build.user=android-build
 ro.build.tags=release-keys
-ro.build.host=21DKGB13
-ro.build.flavor=a34xks-user
-ro.build.date=Tue May 23 19:03:12 KST 2023
-ro.build.date.utc=1684836192
+ro.build.host=SWDK6113
+ro.build.flavor=a34xdxx-user
+ro.build.date=Mon Feb 3 10:57:10 UTC 2025
+ro.build.date.utc=1738580230
 #####################
 ro.product.vendor.board=Samsung
 ro.product.hardware=SM-A346N
@@ -29,5 +29,5 @@ ro.product.vendor.brand=Samsung
 ro.product.vendor.device=a34x
 ro.product.vendor.manufacturer=Samsung
 ro.product.vendor.model=SM-A346N
-ro.product.vendor.name=a34xks
+ro.product.vendor.name=a34xdxx
 #####################
