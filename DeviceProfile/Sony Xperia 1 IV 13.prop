@@ -1,0 +1,36 @@
+device_model_name=Sony Xperia 1 IV
+
+ro.kernel=4.14-android13-5-39t3b7az4k4ac-s78dm02
+ro.boot.hardware.sku=kryo300
+ro.build.expect.bootloader=8450-0001_X_Boot_SM8450_LA2.0_T_112
+ro.build.expect.baseband=waipio.gen-10361-52
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Sony Xperia 1 IV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=64.1.A.0.857
+ro.build.display.id=64.1.A.0.857
+ro.build.version.incremental=1
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-12-01
+ro.build.description=pdx223-user 13 TKQ1.220807.001 1 release-keys
+ro.build.fingerprint=sony/pdx223/pdx223:13/TKQ1.220807.001/1:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=ip-10-26-22-59
+ro.build.flavor=pdx223-user
+ro.build.date=Wed Nov 16 12:24:07 UTC 2022
+ro.build.date.utc=1668687847
+#####################
+ro.product.vendor.board=Sony
+ro.product.hardware=Pdx223
+ro.product.vendor.brand=Sony
+ro.product.vendor.device=Pdx223
+ro.product.vendor.manufacturer=Sony
+ro.product.vendor.model=Pdx223
+ro.product.vendor.name=Pdx223
+#####################
+vendor.somc.syscore.product.name=pdx223
+
+ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1
