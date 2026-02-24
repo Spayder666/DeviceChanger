@@ -1,4 +1,4 @@
-device_model_name=Pixel 5 - Redfin
+device_model_name=Pixel 5 - Redfin A14
 
 ro.kernel=5.15.11-android13-6-00061-gc34c08ev84g4-a5080vb922f
 ro.boot.hardware.sku=gs201
