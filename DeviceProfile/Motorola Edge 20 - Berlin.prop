@@ -7,13 +7,13 @@ ro.build.expect.baseband=M7325_HI43_45.1293.01.67R BERLIN_PVT_R
 
 ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; motorola edge 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-ro.build.id=T1RGS33.135-109-9-26
+ro.build.id=T1RGS33M.135-109-9-26
 ro.build.display.id=T1RGS33M.135-109-9-26
 ro.build.version.incremental=afddce
 ro.build.version.release=13
 ro.build.version.sdk=33
 ro.build.version.security_patch=2024-08-01
-ro.build.description=berlin_global-user 13 T1RGS33.135-109-9-26 afddce release-keys
+ro.build.description=berlin_global-user 13 T1RGS33M.135-109-9-26 afddce release-keys
 ro.build.fingerprint=motorola/berlin_global/berlin:13/T1RGS33M.135-109-9-26/afddce:user/release-keys
 ro.build.type=user
 ro.build.flavor=berlin_global-user
@@ -40,6 +40,7 @@ ro.board.platform=lahaina
 ro.mot.build.guid=4b77f3979dbf4f8
 ro.vendor.mot.base_buildid=T1RG33.135-109-9/610c5-e16fc
 ro.vendor.build.version.qcom=LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+
 
 
 
