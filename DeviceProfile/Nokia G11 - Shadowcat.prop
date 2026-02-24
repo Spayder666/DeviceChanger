@@ -1,0 +1,41 @@
+device_model_name=Nokia G11 - Shadowcat
+
+ro.kernel=5.4.210-android12-9-g9d64e14d76c2
+ro.boot.hardware.sku=T606
+ro.build.expect.bootloader=MGK_162F-0-00WW-B04
+ro.build.expect.baseband=LR12A.R3.MP.V210.5.P6
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia G11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=00WW_3_430
+ro.build.version.incremental=00WW_3_430
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-04-05
+ro.build.description=Shadowcat_Natv-user 13 TP1A.220624.014 eng.jenkin.20230417.024003 release-keys
+ro.build.fingerprint=Nokia/Shadowcat_00WW/SCT_sprout:13/TP1A.220624.014/00WW_3_430:user/release-keys
+ro.build.type=user
+ro.build.flavor=Shadowcat_Natv-user
+ro.build.user=jenkins
+ro.build.host=79b423119f00
+ro.build.tags=release-keys
+ro.vendor.build.date=Mon Apr 17 06:23:13 UTC 2023
+ro.vendor.build.date.utc=1681712593
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia T21
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=SCT_sprout
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia G11
+ro.product.vendor.name=Shadowcat_00WW
+#####################
+
+ro.soc.model=T616
+oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
+
+
+
+
+
