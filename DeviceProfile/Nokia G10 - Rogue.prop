@@ -20,8 +20,8 @@ ro.build.flavor=sys_mssi_rog-user
 ro.build.user=jenkins
 ro.build.host=5961de99d942
 ro.build.tags=release-keys
-ro.system.build.date=Mon Aug  7 04:07:02 UTC 2023
-ro.system.build.date.utc=1691381222
+ro.build.date.utc=1691381222
+ro.build.date=Mon Aug  7 04:07:02 UTC 2023
 #####################
 ro.product.vendor.board=Nokia
 ro.product.hardware=Nokia G10
@@ -53,3 +53,4 @@ ro.mediatek.version.branch=alps-mp-t0.mssi1
 ro.mediatek.version.release=alps-mp-t0.mp1.rc-V3.8.2_hmd.t0mp1rc.k6985v1.64_P38
 
 ro.com.google.gmsversion=13_202301
+
