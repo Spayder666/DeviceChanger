@@ -1,0 +1,46 @@
+device_model_name=Pixel 5 - Redfin
+
+ro.kernel=5.15.11-android13-6-00061-gc34c08ev84g4-a5080vb922f
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=r5-1.5-5705592ec
+ro.build.expect.baseband=g7250-00258-230518-B-10157620
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=UPB5.230623.009
+ro.build.display.id=UPB5.230623.009
+ro.build.version.incremental=10747070
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-08-05
+ro.build.description=redfin-user 14 UPB5.230623.009 10747070 release-keys
+ro.build.fingerprint=google/redfin/redfin:14/UPB5.230623.009/10747070:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-32-2004-00029
+ro.build.tags=release-keys
+ro.build.flavor=redfin-user
+ro.build.date=Fri Sep  1 12:22:05 UTC 2023
+ro.build.date.utc=1693570925
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 5
+ro.product.vendor.brand=google
+ro.product.vendor.device=Redfin
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 5
+ro.product.vendor.name=Redfin
+#####################
+
+ro.product.board=Redfin
+ro.board.platform=sm6150
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+
+ro.product.board=redfin
+ro.board.platform=lito
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SM7250
+ro.netflix.bsp_rev=Q7250-19133-1
