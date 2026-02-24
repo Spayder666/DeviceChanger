@@ -1,0 +1,36 @@
+device_model_name=Nokia G22 - Sunfire
+
+ro.kernel=5.4.210-android13-10-c258923gfd908gdl2t
+ro.boot.hardware.sku=ums9230
+ro.build.expect.bootloader=RNN_162F-0-00WW-B08
+ro.build.expect.baseband=LR20A.R1.MP.V242.1.P2
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia G22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=00WW_2_500
+ro.build.version.incremental=00WW_2_500
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-03-05
+ro.build.description=Sunfire_Natv-user 13 TP1A.220624.014 eng.jenkin.20240221.003742 release-keys
+ro.build.fingerprint=Nokia/Sunfire_00WW/SFI:13/TP1A.220624.014/00WW_2_500:user/release-keys
+ro.build.type=user
+ro.build.flavor=Sunfire_Natv-user
+ro.build.user=jenkins
+ro.build.host=b8ef36e656c4
+ro.build.tags=release-keys
+ro.build.date=Wed Apr  3 04:52:48 UTC 2024
+ro.build.date.utc=1712119968
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia G22
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=SFI
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia G22
+ro.product.vendor.name=Sunfire_00WW
+#####################
+
+ro.soc.model=T616
+ro.netflix.bsp_rev=U9230-34887-1
