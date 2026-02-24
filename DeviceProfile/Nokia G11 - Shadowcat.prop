@@ -20,8 +20,8 @@ ro.build.flavor=Shadowcat_Natv-user
 ro.build.user=jenkins
 ro.build.host=79b423119f00
 ro.build.tags=release-keys
-ro.vendor.build.date=Mon Apr 17 06:23:13 UTC 2023
-ro.vendor.build.date.utc=1681712593
+ro.build.date=Mon Apr 17 06:23:13 UTC 2023
+ro.build.date.utc=1681712593
 #####################
 ro.product.vendor.board=Nokia
 ro.product.hardware=Nokia T21
@@ -34,6 +34,7 @@ ro.product.vendor.name=Shadowcat_00WW
 
 ro.soc.model=T616
 oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
+
 
 
 
