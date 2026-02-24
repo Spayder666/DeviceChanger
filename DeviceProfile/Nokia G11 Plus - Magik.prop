@@ -20,8 +20,8 @@ ro.build.flavor=Magik_Natv-user
 ro.build.user=jenkins
 ro.build.host=acf468ea4855
 ro.build.tags=release-keys
-ro.vendor.build.date=Sun Apr 16 14:29:50 UTC 2023
-ro.vendor.build.date.utc=1681655390
+ro.build.date=Sun Apr 16 14:29:50 UTC 2023
+ro.build.date.utc=1681655390
 #####################
 ro.product.vendor.board=Nokia
 ro.product.hardware=Nokia G11 Plus
@@ -42,6 +42,7 @@ ro.board.platform=ums9230
 oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
 ro.netflix.channel=a0936ad0a17611eab9d55b5e87136a35
 ro.netflix.signup=1
+
 
 
 
