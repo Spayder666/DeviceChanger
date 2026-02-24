@@ -1,0 +1,35 @@
+device_model_name=Pixel 6 Pro - Raven A13
+
+ro.kernel=5.10.3-android-gs-raven-5-android13
+ro.boot.hardware.sku=gs202
+ro.build.expect.bootloader=slider-1.2-8739948
+ro.build.expect.baseband=g5123b-102852-220720-B-8851166
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220905.004
+ro.build.display.id=TP1A.220905.004
+ro.build.version.incremental=8927612
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-09-05
+ro.build.description=raven-user 13 TP1A.220905.004 8927612 release-keys
+ro.build.fingerprint=google/raven/raven:13/TP1A.220905.004/8927612:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-00078
+ro.build.tags=release-keys
+ro.build.flavor=raven-user
+ro.build.date=Wed Aug 10 01:57:47 UTC 2022
+ro.build.date.utc=1660096667
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 6 Pro
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Raven
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 6 Pro
+ro.product.vendor.name=Raven
+#####################
+
+
