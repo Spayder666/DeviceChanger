@@ -1,0 +1,33 @@
+device_model_name=Pixel Tablet - TangorPro A16
+
+ro.kernel=5.15.4-android16-1-00594-5329v8ew492-nw
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=tangorpro-16.3-13642542
+ro.build.expect.baseband=g5300q-230626-230818-B-10679446
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Pixel Tablet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP3A.251005.004.A2
+ro.build.display.id=BP3A.251005.004.A2
+ro.build.version.incremental=14042146
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-10-05
+ro.build.description=tangorpro-user 16 BP3A.251005.004.A2 14042146 release-keys
+ro.build.fingerprint=google/tangorpro/tangorpro:16/BP3A.251005.004.A2/14042146:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=6aff2c3d04eb
+ro.build.flavor=tangorpro-user
+ro.build.date=Wed Sep  3 23:47:12 UTC 2025
+ro.build.date.utc=1756943232
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel Tablet
+ro.product.product.brand=Google
+ro.product.vendor.device=TangorPro
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel Tablet
+ro.product.vendor.name=TangorPro
+#####################
