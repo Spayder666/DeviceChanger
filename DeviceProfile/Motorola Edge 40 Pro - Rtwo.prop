@@ -22,13 +22,13 @@ ro.build.tags=release-keys
 ro.build.date.utc=1681736367
 ro.build.date=Mon Apr 17 12:59:27 UTC 2023
 #####################
-ro.product.vendor.board=rtwo
-ro.product.hardware=rtwo
-ro.product.vendor.brand=motorola
-ro.product.vendor.device=rtwo
-ro.product.vendor.manufacturer=motorola
-ro.product.vendor.model=motorola edge 40 pro
-ro.product.vendor.name=rtwo
+ro.product.vendor.board=RTWO
+ro.product.hardware=RTWO
+ro.product.vendor.brand=Motorola
+ro.product.vendor.device=RTWO
+ro.product.vendor.manufacturer=Motorola
+ro.product.vendor.model=Motorola EDGE 40 Pro
+ro.product.vendor.name=RTWO
 #####################
 
 ro.build.PDA=X216BXXS1AXA1
@@ -40,6 +40,7 @@ ro.mot.build.guid=27bf3b8ef8a8c8e
 
 ro.product.board=rtwo
 ro.board.platform=kalama
+
 
 
 
