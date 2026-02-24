@@ -24,7 +24,7 @@ ro.build.date=Fri Mar 10 05:33:11 UTC 2023
 ro.build.date.utc=1678426391
 #####################
 ro.product.vendor.board=Google
-ro.product.hardware=Pixel Fold
+ro.product.hardware=Pixel Tablet
 ro.product.product.brand=Google
 ro.product.vendor.device=TangorPro
 ro.product.vendor.manufacturer=Google
