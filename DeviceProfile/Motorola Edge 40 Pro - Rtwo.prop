@@ -15,7 +15,7 @@ ro.build.version.security_patch=2023-04-01
 ro.build.description=rtwo-user 13 T1TR33.43-20-28 8fa75 release-keys
 ro.build.fingerprint=motorola/rtwo/rtwo:13/T1TR33M.43-20-28/8fa75:user/release-keys
 ro.build.type=user
-ro.build.flavor=berlin_global-user
+ro.build.flavor=rtwo-user
 ro.build.host=gcbuilds-def-t2d-standard-60-229-v0pmsb
 ro.build.user=hudsoncm
 ro.build.tags=release-keys
@@ -40,4 +40,5 @@ ro.mot.build.guid=27bf3b8ef8a8c8e
 
 ro.product.board=rtwo
 ro.board.platform=kalama
+
 
