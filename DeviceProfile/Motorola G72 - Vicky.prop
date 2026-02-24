@@ -23,13 +23,13 @@ ro.build.tags=release-keys
 ro.build.date.utc=1692699648
 ro.build.date=Tue Aug 22 10:20:48 UTC 2023
 #####################
-ro.product.vendor.board=cancunf
-ro.product.hardware=cancunf
-ro.product.vendor.brand=motorola
-ro.product.vendor.device=cancunf
-ro.product.vendor.manufacturer=motorola
-ro.product.vendor.model=moto g73 5G
-ro.product.vendor.name=cancunf_cn_hal
+ro.product.vendor.board=Cancunf
+ro.product.hardware=Cancunf
+ro.product.vendor.brand=Motorola
+ro.product.vendor.device=Cancunf
+ro.product.vendor.manufacturer=Motorola
+ro.product.vendor.model=Moto G73 5G
+ro.product.vendor.name=Cancunf_cn_hal
 #####################
 
 ro.build.PDA=X216BXXS1AXA1
@@ -40,3 +40,4 @@ ro.build.changelist=27531518
 ro.mot.build.guid=fc8e50fa3bb9429
 
 ro.product.system_ext.model=XT2343-3
+
