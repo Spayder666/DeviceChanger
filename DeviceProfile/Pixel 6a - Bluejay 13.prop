@@ -1,0 +1,33 @@
+device_model_name=Pixel 6a - Bluejay A13
+
+ro.kernel=5.10.177-android13-4-00006-g4e221c34c08e-ab11035080
+ro.boot.hardware.sku=gs101
+ro.build.expect.bootloader=bluejay-1.2-9894665
+ro.build.expect.baseband=g5123b-116954-230511-B-10112789
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 6a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TQ3A.230901.001
+ro.build.display.id=TQ3A.230901.001
+ro.build.version.incremental=10750268
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-09-01
+ro.build.description=bluejay-user 13 TQ3A.230901.001 10750268 release-keys
+ro.build.fingerprint=google/bluejay/bluejay:13/TQ3A.230901.001/10750268:user/dev-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-2004-0236
+ro.build.tags=release-keys
+ro.build.flavor=bluejay-user
+ro.build.date=Fri Sep  1 12:21:05 UTC 2023
+ro.build.date.utc=1693570865
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 6a
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Bluejay
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 6a
+ro.product.vendor.name=Bluejay
+#####################
