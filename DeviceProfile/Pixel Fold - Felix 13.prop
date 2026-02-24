@@ -1,0 +1,35 @@
+device_model_name=Pixel Fold - Felix A13
+
+ro.kernel=5.10-android13-4-00012-c08e391u47-ev
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=felix-1.0-9941084
+ro.build.expect.baseband=g5300n-230323-230505-B-10074067
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TD3A.230203.070.A1
+ro.build.display.id=TD3A.230203.070.A1
+ro.build.version.incremental=10075871
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-04-05
+ro.build.description=felix-user 13 TD3A.230203.070.A1 10075871 release-keys
+ro.build.fingerprint=google/felix/felix:13/TD3A.230203.070.A1/10075871:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-2004-0224
+ro.build.tags=release-keys
+ro.build.flavor=felix-user
+ro.build.date=Fri May  5 16:40:30 UTC 2023
+ro.build.date.utc=1683304830
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel Fold
+ro.product.product.brand=Google
+ro.product.vendor.device=Felix
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel Fold
+ro.product.vendor.name=Felix
+#####################
+
+ro.vendor.dolby.dax.version=DAX3_G_3.7.3.0_r1
