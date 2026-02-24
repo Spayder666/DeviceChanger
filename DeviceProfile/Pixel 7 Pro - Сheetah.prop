@@ -1,0 +1,152 @@
+
+
+ro.kernel=4.9-G1905281326
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=cloudripper-1.0-9231809
+ro.build.expect.baseband=g5300g-220923-221028-B-9229469
+
+# begin common build properties
+ro.product.product.brand=google
+ro.product.product.device=cheetah
+ro.product.product.manufacturer=Google
+ro.product.product.model=Pixel 7 Pro
+ro.product.product.name=cheetah
+ro.product.product.board=cheetah
+ro.product.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.product.build.date.utc=1687810831
+ro.product.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.product.build.id=TQ3A.230805.001.A2
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=10385117
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+# end common build properties
+
+# begin PRODUCT_PRODUCT_PROPERTIES
+ro.support_one_handed_mode=true
+ro.charger.enable_suspend=true
+ro.opa.eligible_device=true
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+# end PRODUCT_PRODUCT_PROPERTIES
+
+# begin common build properties
+ro.product.vendor.brand=google
+ro.product.vendor.device=cheetah
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 7 Pro
+ro.product.vendor.name=cheetah
+ro.product.vendor.board=cheetah
+ro.vendor.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.vendor.build.date.utc=1687810831
+ro.vendor.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.vendor.build.id=TQ3A.230805.001.A2
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+ro.vendor.build.version.incremental=10385117
+ro.vendor.build.version.release=13
+ro.vendor.build.version.release_or_codename=13
+ro.vendor.build.version.sdk=33
+
+
+
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+ro.vendor.build.security_patch=2023-08-05
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.bootimage.build.date.utc=1687810831
+ro.bootimage.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+# begin common build properties
+ro.product.odm.brand=google
+ro.product.odm.device=cheetah
+ro.product.odm.manufacturer=Google
+ro.product.odm.model=Pixel 7 Pro
+ro.product.odm.name=cheetah
+ro.product.odm.board=cheetah
+ro.odm.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.odm.build.date.utc=1687810831
+ro.odm.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.odm.build.id=TQ3A.230805.001.A2
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=10385117
+ro.odm.build.version.release=13
+ro.odm.build.version.release_or_codename=13
+ro.odm.build.version.sdk=33
+# end common build properties
+
+
+# begin common build properties
+ro.product.system.brand=google
+ro.product.system.device=generic
+ro.product.system.manufacturer=Google
+ro.product.system.model=mainline
+ro.product.system.name=mainline
+ro.system.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.system.build.date.utc=1687810831
+ro.system.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.system.build.id=TQ3A.230805.001.A2
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+ro.system.build.version.incremental=10385117
+ro.system.build.version.release=13
+ro.system.build.version.release_or_codename=13
+ro.system.build.version.sdk=33
+# end common build properties
+
+# begin build properties
+ro.build.id=TQ3A.230805.001.A2
+ro.build.display.id=TQ3A.230805.001.A2
+ro.build.version.incremental=10385117
+ro.build.version.sdk=33
+ro.build.version.release=13
+ro.build.version.release_or_codename=13
+ro.build.version.security_patch=2023-08-05
+ro.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.build.date.utc=1687810831
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-2004-0181
+ro.build.tags=release-keys
+ro.build.flavor=cheetah-user
+ro.build.product=cheetah
+ro.build.description=cheetah-user 13 TQ3A.230805.001.A2 10385117 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.product.brand=google
+ro.product.device=cheetah
+ro.product.manufacturer=Google
+ro.product.model=Pixel 7 Pro
+ro.product.name=cheetah
+ro.product.board=cheetah
+
+
+# begin common build properties
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=cheetah
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=Pixel 7 Pro
+ro.product.system_ext.name=cheetah
+ro.system_ext.build.date=Mon Jun 26 20:20:31 UTC 2023
+ro.system_ext.build.date.utc=1687810831
+ro.system_ext.build.fingerprint=google/cheetah/cheetah:13/TQ3A.230805.001.A2/10385117:user/release-keys
+ro.system_ext.build.id=TQ3A.230805.001.A2
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=10385117
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+ro.soc.model=SM7250
+# end common build properties
