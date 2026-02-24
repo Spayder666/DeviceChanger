@@ -1,0 +1,39 @@
+device_model_name=Pixel 5a - Barbet
+
+ro.kernel=5.10.177-android13-4-00006-g4e221c34c08e-ab11035080
+ro.boot.hardware.sku=gs201
+ro.build.expect.bootloader=b9-0.5-9430460
+ro.build.expect.baseband=g7250-00247.1-230113-B-9488784
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 5a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TQ2A.230305.008.C1
+ro.build.display.id=TQ2A.230305.008.C1
+ro.build.version.incremental=9619669
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-05
+ro.build.description=barbet-user 13 TQ2A.230305.008.C1 9619669 release-keys
+ro.build.fingerprint=google/barbet/barbet:13/TQ2A.230305.008.C1/9619669:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-2004-0005
+ro.build.tags=release-keys
+ro.build.flavor=barbet-user
+ro.build.date=Fri Feb 17 01:51:44 UTC 2023
+ro.build.date.utc=1676598704
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 5a
+ro.product.vendor.brand=google
+ro.product.vendor.device=Barbet
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 5a
+ro.product.vendor.name=Barbet
+#####################
+
+ro.product.board=redfin
+ro.board.platform=lito
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SM7250
+ro.netflix.bsp_rev=Q7250-19133-1
