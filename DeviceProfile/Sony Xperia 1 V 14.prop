@@ -1,0 +1,38 @@
+device_model_name=Sony Xperia 1 V А14
+
+ro.kernel=5.10-android12-5-39t3b7az4k4ac-s78dm02
+ro.boot.hardware.sku=SDM630
+ro.build.expect.bootloader=1310-0301_X_Boot_SDM630_LA3.0.1_P_402
+ro.build.expect.baseband=1318-6122_53.1.A.2.2
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Sony Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=67.1.A.2.112
+ro.build.display.id=67.1.A.2.112
+ro.build.version.incremental=1
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2023-10-01
+ro.build.description=pdx234-user 14 UKQ1.230917.001 1 release-keys
+ro.build.fingerprint=sony/pdx234/pdx234:14/UKQ1.230917.001/1:user/release-keys
+ro.build.type=user
+ro.build.user=hudsonslave
+ro.build.tags=release-keys
+ro.build.host=ip-10-26-23-92
+ro.build.flavor=pdx234-user
+ro.build.date=Thu Oct 12 16:03:38 UTC 2023
+ro.build.date.utc=1697126618
+#####################
+ro.product.vendor.board=Sony
+ro.product.hardware=Pdx234
+ro.product.vendor.brand=Sony
+ro.product.vendor.device=Pdx234
+ro.product.vendor.manufacturer=Sony
+ro.product.vendor.model=Pdx234
+ro.product.vendor.name=Pdx234
+#####################
+
+ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1
+vendor.perfagent.product.name=pdx234
+
+ro.com.google.gmsversion=13_202301
