@@ -1,0 +1,36 @@
+device_model_name=Nokia XR20 - TheThing
+
+ro.kernel=5.4.210-android13-11-00001-a0936ad0a17611
+ro.boot.hardware.sku=SM4350
+ro.build.expect.bootloader=r5-1.4-53705j58rfio
+ro.build.expect.baseband=8501_W23.14.3_d55b5e871
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia XR20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TKQ1.220807.001
+ro.build.display.id=TKQ1.220807.001
+ro.build.version.incremental=00WW_3_220
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-05
+ro.build.description=TheThing_00WW-user 13 TKQ1.220807.001 00WW_3_220 release-keys
+ro.build.fingerprint=Nokia/TheThing_00WW/TTG_sprout:13/TKQ1.220807.001/00WW_3_220:user/release-keys
+ro.build.type=user
+ro.build.flavor=TheThing_00WW-user
+ro.build.user=jenkins
+ro.build.host=3eafd40eacd1
+ro.build.tags=release-keys
+ro.build.date=Wed Nov 23 13:22:23 UTC 2022
+ro.build.date.utc=1669209743
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia XR20
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=TTG_sprout
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia XR20
+ro.product.vendor.name=TheThing_00WW
+#####################
+
+
+
