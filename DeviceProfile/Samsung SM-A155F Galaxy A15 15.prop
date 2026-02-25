@@ -33,3 +33,5 @@ ro.product.vendor.name=a15nsxx
 #####################
 ro.build.PDA=A155FXXS7CYG4
 ro.build.changelist=967114443
+ro.build.product_code=SM-A155FZKAXAA
+ro.csc.sales_code=XAA
