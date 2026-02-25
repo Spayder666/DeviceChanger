@@ -1,0 +1,36 @@
+device_model_name=Nokia T20 - Riddler
+
+ro.kernel=4.4.190-android13-10-00022-7645jgdvf638189diuj
+ro.boot.hardware.sku=ums9230_4h10
+ro.build.expect.bootloader=r5-5.1-58467hgjs09
+ro.build.expect.baseband=37809_E21.10.3_3c8e56v873
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia T20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014 release-keys
+ro.build.version.incremental=00WW_3_220
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-05
+ro.build.description=Riddler_user_13_TP1A.220624.014_00WW_3_220_release-keys
+ro.build.fingerprint=Nokia/Riddler_00WW/RDD:13/TP1A.220624.014/00WW_3_220:user/release-keys
+ro.build.type=user
+ro.build.flavor=ums9230_4h10_Natv-user
+ro.build.user=longru
+ro.build.host=build
+ro.build.tags=release-keys
+ro.build.date=Fri Jul 21 00:55:22 UTC 2023
+ro.build.date.utc=1689900922
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia T20
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=RDD
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia T20
+ro.product.vendor.name=Riddler_00WW
+#####################
+
+oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
+ro.com.google.gmsversion=13_202304
