@@ -1,0 +1,36 @@
+device_model_name=Nokia T10 - Penguin
+
+ro.kernel=4.4.210-android13-11-00001-gehb97645jgdvf6381
+ro.boot.hardware.sku=ums9230_4h10
+ro.build.expect.bootloader=r5-4.4-705j58467hgj
+ro.build.expect.baseband=06471_W23.14.3_sb73c8e56
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia T10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=FM626_G3_HMD_PENGUIN
+ro.build.version.incremental=00WW_2_310
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-05-05
+ro.build.description=ums9230_4h10_Natv-user 13 TP1A.220624.014 00WW_2_310 release-keys
+ro.build.fingerprint=Nokia/Penguin_00WW/PGN:13/TP1A.220624.014/00WW_2_310:user/release-keys
+ro.build.type=user
+ro.build.flavor=ums9230_4h10_Natv-user
+ro.build.user=jenkins
+ro.build.host=91a3b3e353d7
+ro.build.tags=release-keys
+ro.build.date=Sat May  6 07:12:27 UTC 2023
+ro.build.date.utc=1683357147
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia T10
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=PGN
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia T10
+ro.product.vendor.name=Penguin_00WW
+#####################
+
+oem_trusted_certificate=27196E386B875E76ADF700E7EA84E4C6EEE33DFA
+ro.product.hardware=ums9230_4h10
