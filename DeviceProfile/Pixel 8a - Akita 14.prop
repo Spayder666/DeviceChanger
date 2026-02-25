@@ -1,0 +1,33 @@
+device_model_name=Pixel 8a - Akita A14
+
+ro.kernel=5.10.198-android15-4-00047-a337ab824298-ab4978xb89
+ro.boot.hardware.sku=gs201
+ro.build.expect.baseband=g5300o-240308-240607-B-11939237
+ro.build.expect.bootloader=akita-14.5-12100691
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 8a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP2A.240905.003.E1
+ro.build.display.id=AP2A.240905.003.E1
+ro.build.version.incremental=12235207
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-05
+ro.build.description=akita-user 14 AP2A.240905.003.E1 12235207 release-keys
+ro.build.fingerprint=google/akita/akita:14/AP2A.240905.003.E1/12235207:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-68354e84479a5a03-jssf
+ro.build.tags=release-keys
+ro.build.flavor=akita-user
+ro.build.date=Thu Aug 15 20:14:23 UTC 2024
+ro.build.date.utc=1723752863
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 8a
+ro.product.product.brand=Google
+ro.product.vendor.device=Akita
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 8a
+ro.product.vendor.name=Akita
+#####################
