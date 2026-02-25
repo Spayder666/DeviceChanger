@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-A525F Galaxy A52 A14
+
+ro.kernel=5.5.011-102502-A525FXXSAFXJ2
+ro.boot.hardware.sku=s5e4769
+ro.build.expect.bootloader=A525FXXSAFXJ2
+ro.build.expect.baseband=A525FXXSAFXJ2
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.A525FXXSAFXJ2
+ro.build.version.incremental=A525FXXSAFXJ2
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-11-01
+ro.build.description=a52qnsxx-user 14 UP1A.231005.007 A525FXXSAFXJ2 release-keys
+ro.build.fingerprint=samsung/a52qnsxx/a52q:14/UP1A.231005.007/A525FXXSAFXJ2:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6918
+ro.build.flavor=a52qnsxx-user
+ro.date=Wed Oct 29 07:44:05 UTC 2024
+ro.date.utc=1730274245
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-A525F
+ro.product.vendor.brand=Samsung
+ro.product.system.device=a52q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A525F
+ro.product.system.name=a52qnsxx
+#####################
+ro.build.PDA=A525FXXS6DWK2
+ro.build.changelist=27100863
