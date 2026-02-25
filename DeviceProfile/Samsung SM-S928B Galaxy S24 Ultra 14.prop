@@ -28,7 +28,7 @@ ro.product.hardware=SM-S928B
 ro.product.vendor.brand=Samsung
 ro.product.system.device=e3q
 ro.product.system.manufacturer=samsung
-ro.product.system.model=SM-G9910
+ro.product.system.model=SM-S928B
 ro.product.system.name=e3qxxx
 #####################
 ro.build.PDA=S928BXXU4AYA5
