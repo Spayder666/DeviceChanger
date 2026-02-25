@@ -33,3 +33,5 @@ ro.product.vendor.name=dm3qxxx
 #####################
 ro.build.PDA=S918BXXU3AWGJ
 ro.build.changelist=671144202
+ro.build.product_code=SM-S918BZKAXAA
+ro.csc.sales_code=XAA
