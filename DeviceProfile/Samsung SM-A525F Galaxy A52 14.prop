@@ -20,8 +20,8 @@ ro.build.user=android-build
 ro.build.tags=release-keys
 ro.build.host=SWDK6918
 ro.build.flavor=a52qnsxx-user
-ro.date=Wed Oct 29 07:44:05 UTC 2024
-ro.date.utc=1730274245
+ro.build.date=Wed Oct 29 07:44:05 UTC 2024
+ro.build.date.utc=1730274245
 #####################
 ro.product.vendor.board=Samsung
 ro.product.hardware=SM-A525F
