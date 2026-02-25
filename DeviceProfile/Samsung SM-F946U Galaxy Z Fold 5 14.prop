@@ -32,4 +32,6 @@ ro.product.vendor.model=SM-F946U
 ro.product.vendor.name=q5qsqw
 #####################
 ro.build.PDA=F946BXXU3DXH7
-ro.build.changelist=296711442
+ro.build.changelist=29675469223
+ro.build.product_code=SM-F946UZKAXAA
+ro.csc.sales_code=XAA
