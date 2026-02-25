@@ -32,7 +32,7 @@ ro.product.vendor.model=Pixel 5
 ro.product.vendor.name=Redfin
 #####################
 
-ro.product.board=sunfish
+ro.product.board=Redfin
 ro.board.platform=sm6150
 ####################################
 # from generate-common-build-props
@@ -44,6 +44,7 @@ ro.board.platform=lito
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7250
 ro.netflix.bsp_rev=Q7250-19133-1
+
 
 
 
