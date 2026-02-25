@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-S928B Galaxy S24 Ultra A15
+
+ro.kernel=5.10.1-258942-abS928BXXS4BYEC
+ro.boot.hardware.sku=s5e1642
+ro.build.expect.bootloader=S928BXXS4BYEC
+ro.build.expect.baseband=S928BXXS4BYEC
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP3A.240905.015.A2
+ro.build.display.id=AP3A.240905.015.A2.S928BXXS4BYEC
+ro.build.version.incremental=S928BXXS4BYEC
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-06-01
+ro.build.description=e3qxxx-user 15 AP3A.240905.015.A2 S928BXXS4BYEC release-keys
+ro.build.fingerprint=samsung/e3qxxx/e3q:15/AP3A.240905.015.A2/S928BXXS4BYEC:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=21DJ7C20
+ro.build.flavor=e3qxxx-user
+ro.date=Fri May 30 03:38:02 UTC 2025
+ro.date.utc=1748576282
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-S928B
+ro.product.vendor.brand=Samsung
+ro.product.system.device=e3q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-S928B
+ro.product.system.name=e3qxxx
+#####################
+ro.build.PDA=S928BXXS4BYEC
+ro.build.changelist=967114443
