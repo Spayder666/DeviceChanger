@@ -14,7 +14,7 @@ ro.build.version.release=13
 ro.build.version.sdk=33
 ro.build.version.security_patch=2023-03-05
 ro.build.description=Falcon_00WW-user 13 TKQ1.220807.001 00WW_2_220 release-keys
-ro.build.fingerprint==Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_220:user/release-keys
+ro.build.fingerprint=Nokia/Falcon_00WW/FCN_sprout:13/TKQ1.220807.001/00WW_2_220:user/release-keys
 ro.build.type=user
 ro.build.flavor=Falcon_00WW-user
 ro.build.user=jenkins
@@ -31,3 +31,4 @@ ro.product.vendor.manufacturer=HMD Global
 ro.product.vendor.model=Nokia X30 5G
 ro.product.vendor.name=Falcon_00WW
 #####################
+
