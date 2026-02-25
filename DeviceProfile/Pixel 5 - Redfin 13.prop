@@ -23,11 +23,11 @@ ro.build.flavor=redfin-user
 ro.build.date=Fri Sep  1 12:22:05 UTC 2023
 ro.build.date.utc=1693570925
 #####################
-ro.product.vendor.board=Google
+ro.product.vendor.board=Google1
 ro.product.hardware=Pixel 5
-ro.product.vendor.brand=google
+ro.product.vendor.brand=google2
 ro.product.vendor.device=Redfin
-ro.product.vendor.manufacturer=Google
+ro.product.vendor.manufacturer=Google3
 ro.product.vendor.model=Pixel 5
 ro.product.vendor.name=Redfin
 #####################
@@ -44,4 +44,5 @@ ro.board.platform=lito
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7250
 ro.netflix.bsp_rev=Q7250-19133-1
+
 
