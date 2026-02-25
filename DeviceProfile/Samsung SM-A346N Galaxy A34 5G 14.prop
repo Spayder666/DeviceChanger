@@ -31,3 +31,7 @@ ro.product.vendor.manufacturer=Samsung
 ro.product.vendor.model=SM-A346N
 ro.product.vendor.name=a34xdxx
 #####################
+ro.build.PDA=A346EXXS9CYA2
+ro.build.changelist=26337039
+ro.build.product_code=SM-A346NZKAXAA
+ro.csc.sales_code=XAA
