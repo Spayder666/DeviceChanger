@@ -33,9 +33,8 @@ ro.product.vendor.name=a34xks
 #####################
 ro.build.PDA=A346NKSU2AWE6
 ro.build.changelist=26337039
-
-ro.product.board=a34x
-ro.board.platform=mt6877
+ro.build.product_code=SM-A346NZKAXAA
+ro.csc.sales_code=XAA
 
 ro.netflix.bsp_rev=MTK6877-33678-1
 
