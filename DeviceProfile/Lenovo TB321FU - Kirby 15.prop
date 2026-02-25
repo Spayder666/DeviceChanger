@@ -1,0 +1,33 @@
+device_model_name=Lenovo TB321FU - Kirby A15
+
+ro.kernel=5.15-1-99gsd34d5289-x7233y21s98m
+ro.boot.hardware.sku=8650P
+ro.build.expect.bootloader=ZUI_17.0.12.183
+ro.build.expect.baseband=Q00011.0_V_ST_251014
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; TB321FU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AQ3A.240912.001
+ro.build.display.id=AQ3A.240912.001
+ro.build.version.incremental=ZUXOS_1.1.10.032_250422_PRC
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-03-05
+ro.build.description=kirby_prc-user 15 AQ3A.240912.001 10754064 release-keys
+ro.build.fingerprint=Lenovo/kirby/TB321FU:15/AQ3A.240912.001/ZUXOS_1.1.10.032_250422_PRC:user/release-keys
+ro.build.type=user
+ro.build.user=buildslave
+ro.build.host=hqsl014
+ro.build.tags=release-keys
+ro.build.flavor=kirby_prc-user
+ro.build.date=Tue Apr 21 17:31:23 UTC 2025
+ro.build.date.utc=1745256683
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=TB321FU
+ro.product.vendor.brand=Lenovo
+ro.product.vendor.device=TB321FU
+ro.product.vendor.manufacturer=LENOVO
+ro.product.vendor.model=TB321FU
+ro.product.vendor.name=Kirby
+#####################
