@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-G9910 Galaxy S21 5G A13
+
+ro.kernel=5.4.183-259502-abG9910ZCU5EWH6
+ro.boot.hardware.sku=s5e2722
+ro.build.expect.bootloader=G9910ZCU5EWH6
+ro.build.expect.baseband=G9910ZCU5EWH6
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014.G9910ZCU5EWH6
+ro.build.version.incremental=G9910ZCU5EWH6
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-08-01
+ro.build.description=o1qzcx-user 13 TP1A.220624.014 G9910ZCU5EWH6 release-keys
+ro.build.fingerprint=samsung/o1qzcx/o1q:13/TP1A.220624.014/G9910ZCU5EWH6:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=21DKGA15
+ro.build.flavor=o1qzcx-user
+ro.date=Sun Oct 7 16:39:21 UTC 2023
+ro.date.utc=1696756281
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-G9910
+ro.product.vendor.brand=Samsung
+ro.product.system.device=o1q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-G9910
+ro.product.system.name=o1qzcx
+#####################
+ro.build.PDA=G9910ZCU5EWH6
+ro.build.changelist=967114
