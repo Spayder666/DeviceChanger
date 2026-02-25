@@ -1,0 +1,33 @@
+device_model_name=Pixel 9a - Tegu A16
+
+ro.kernel=5.15-android15-qpr5-0051-d537255-x745t943c4
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5300t-250320-250425-B-13407682
+ro.build.expect.bootloader=tegu-16.0-13291548
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Pixel 9a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP2A.250605.031.A2
+ro.build.display.id=BP2A.250605.031.A2
+ro.build.version.incremental=13578606
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-06-05
+ro.build.description=tegu-user 16 BP2A.250605.031.A2 13578606 release-keys
+ro.build.fingerprint=google/tegu/tegu:16/BP2A.250605.031.A2/13578606:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=6b3d05f54c8d
+ro.build.tags=release-keys
+ro.build.flavor=tegu-user
+ro.build.date=Fri May 30 20:09:32 UTC 2025
+ro.build.date.utc=1748635772
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9a
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Tegu
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9a
+ro.product.vendor.name=Tegu
+#####################
