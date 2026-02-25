@@ -1,0 +1,33 @@
+device_model_name=Pixel 9 Pro Fold - Comet A15
+
+ro.kernel=5.15.7-android15-qpr5-9331-9d5300515-2x7230234ff
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5400c-240718-240719-B-12112834
+ro.build.expect.bootloader=ripcurrentpro-15.0-12152969
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Pixel 9 Pro Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP3A.241005.015.A2
+ro.build.display.id=AP3A.241005.015.A2
+ro.build.version.incremental=12426170
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2024-09-05
+ro.build.description=Comet-user 15 AP3A.241005.015.A2 12426170 release-keys
+ro.build.fingerprint=google/comet/comet:15/AP3A.241005.015.A2/12426170:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-8891092928c26a74-mg86
+ro.build.tags=release-keys
+ro.build.flavor=Comet-user
+ro.build.date=Fri Sep 27 19:15:17 UTC 2024
+ro.build.date.utc=1727464517
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9 Pro Fold
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Comet
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9 Pro Fold
+ro.product.vendor.name=Comet
+#####################
