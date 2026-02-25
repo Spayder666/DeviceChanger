@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-S921B Galaxy S24 A14
+
+ro.kernel=5.5.136-7753259-abS921BXXU1AWM9
+ro.boot.hardware.sku=s5e9945
+ro.build.expect.bootloader=S921BXXU1AWM9
+ro.build.expect.baseband=S921BXXU1AWM9
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.S921BXXU1AWM9
+ro.build.version.incremental=S921BXXU1AWM9
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-01-01
+ro.build.description=e1sxxx-user 14 UP1A.231005.007 S921BXXU1AWM9 release-keys
+ro.build.fingerprint=samsung/e1sxxx/e1s:14/UP1A.231005.007/S921BXXU1AWM9:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6714
+ro.build.flavor=e1sxxx-user
+ro.build.date=Thu Dec 28 05:53:12 UTC 2023
+ro.build.date.utc=1703742792
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-S921B
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=e1s
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S921B
+ro.product.vendor.name=e1sxxx
+#####################
+ro.build.PDA=S921BXXU1AWM9
+ro.build.changelist=28243294
