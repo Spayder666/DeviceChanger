@@ -1,0 +1,33 @@
+device_model_name=Pixel 8 Pro - Husky A15
+
+ro.kernel=5.10.2-android15-2-00713-b8224028s1-8xb89c3c72
+ro.boot.hardware.sku=gs201
+ro.build.expect.baseband=g5300i-241205-250127-B-12973597
+ro.build.expect.bootloader=ripcurrent-15.2-13027242
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP1A.250405.005.B1
+ro.build.display.id=BP1A.250405.005.B1
+ro.build.version.incremental=13151136
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2024-03-05
+ro.build.description=Husky-user 15 BP1A.250405.005.B1 13151136 release-keys
+ro.build.fingerprint=google/husky/husky:15/BP1A.250405.005.B1/13151136:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-456ae1c9fa6a8c5c-pz3l
+ro.build.tags=release-keys
+ro.build.flavor=Husky-user
+ro.build.date=Mon Mar  3 19:40:45 UTC 2025
+ro.build.date.utc=1741030845
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 8 Pro
+ro.product.product.brand=Google
+ro.product.vendor.device=Husky
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 8 Pro
+ro.product.vendor.name=Husky
+#####################
