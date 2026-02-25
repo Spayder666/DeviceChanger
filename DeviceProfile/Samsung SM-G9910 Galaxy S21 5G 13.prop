@@ -33,3 +33,5 @@ ro.product.system.name=o1qzcx
 #####################
 ro.build.PDA=G9910ZCU5EWH6
 ro.build.changelist=967114
+ro.build.product_code=SM-G9910ZKAXAA
+ro.csc.sales_code=XAA
