@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-S711B Galaxy S23 FE A14
+
+ro.kernel=5.10.185-android13-4-00332-gb01498gd258c3ji
+ro.boot.hardware.sku=s5e9925
+ro.build.expect.bootloader=S711BXXS4DXH8
+ro.build.expect.baseband=S711BXXS4DXH8
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-S711B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.S711BXXS4DXH8
+ro.build.version.incremental=S711BXXS4DXH8
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-01
+ro.build.description=r11sxxx-user 14 UP1A.231005.007 S711BXXS4DXH8 release-keys
+ro.build.fingerprint=samsung/r11sxxx/r11s:14/UP1A.231005.007/S711BXXS4DXH8:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=21DKGA19
+ro.build.flavor=r11sxxx-user
+ro.build.date=Wed Aug 28 02:20:58 UTC 2024
+ro.build.date.utc=1724811658
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-S711B
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=r11s
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S711B
+ro.product.vendor.name=r11sxxx
+#####################
+ro.build.PDA=S711BXXS4DXH8
+ro.build.changelist=29543898
