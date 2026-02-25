@@ -1,0 +1,33 @@
+device_model_name=Lenovo TB321FU - Kirby A16
+
+ro.kernel=5.15-3-sd34d5289vc2d-3y21s98m45dc
+ro.boot.hardware.sku=r45ug33
+ro.build.expect.bootloader=ZUI_17.5.10.031
+ro.build.expect.baseband=Q00011.0_V_ST_251014
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; TB321FU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AQ3A.240912.001
+ro.build.display.id=BQ2A.250610.001
+ro.build.version.incremental=ZUI_17.5.10.031_251125_ROW
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-10-05
+ro.build.description=kirby_prc-user 16 BQ2A.250610.001 ZUI_17.5.10.031_251125_ROW release-keys
+ro.build.fingerprint=Lenovo/kirby/TB321FU:16/BQ2A.250610.001/ZUI_17.5.10.031_251125_ROW:user/release-keys
+ro.build.type=user
+ro.build.user=buildslave
+ro.build.host=hqsl014
+ro.build.tags=release-keys
+ro.build.flavor=kirby_prc-user
+ro.build.date=Tue Nov 25 04:48:03 UTC 2025
+ro.build.date.utc=1764046083
+#####################
+ro.product.vendor.board=Lenovo
+ro.product.hardware=TB321FU
+ro.product.vendor.brand=Lenovo
+ro.product.vendor.device=TB321FU
+ro.product.vendor.manufacturer=LENOVO
+ro.product.vendor.model=TB321FU
+ro.product.vendor.name=Kirby
+#####################
