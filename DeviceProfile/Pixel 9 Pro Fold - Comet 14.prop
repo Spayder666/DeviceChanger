@@ -1,0 +1,33 @@
+device_model_name=Pixel 9 Pro Fold - Comet A14
+
+ro.kernel=5.15-android14-qpr4-9421-bb99d5300-5v34k2x7230
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5400c-240718-240719-B-12112834
+ro.build.expect.bootloader=ripcurrentpro-14.6-12143045
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 9 Pro Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AD1A.240905.004
+ro.build.display.id=AD1A.240905.004
+ro.build.version.incremental=12196292
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-09-05
+ro.build.description=Comet-user 14 AD1A.240905.004 12196292 release-keys
+ro.build.fingerprint=google/comet/comet:14/AD1A.240905.004/12196292:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-8891092928c26a74-x5jt
+ro.build.tags=release-keys
+ro.build.flavor=Comet-user
+ro.build.date=Wed Aug  7 14:39:51 UTC 2024
+ro.build.date.utc=1723041591
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9 Pro Fold
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Comet
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9 Pro Fold
+ro.product.vendor.name=Comet
+#####################
