@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-A155F Galaxy A15 A15
+
+ro.kernel=5.5.10-495023-abA155FXXS7CYG4
+ro.boot.hardware.sku=s5e1831
+ro.build.expect.bootloader=A155FXXS7CYG4
+ro.build.expect.baseband=A155FXXS7CYG4
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-A155F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP3A.240905.015.A2
+ro.build.display.id=AP3A.240905.015.A2.A155FXXS7CYG4
+ro.build.version.incremental=A155FXXS7CYG4
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-08-01
+ro.build.description=a15nsxx-user 15 AP3A.240905.015.A2 A155FXXS7CYG4 release-keys
+ro.build.fingerprint=samsung/a15nsxx/a15:15/AP3A.240905.015.A2/A155FXXS7CYG4:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDM8403
+ro.build.flavor=a15nsxx-user
+ro.build.date=Fri Aug 1 02:00:23 UTC 2025
+ro.build.date.utc=1754013623
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-A155F
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=a15
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-A155F
+ro.product.vendor.name=a15nsxx
+#####################
+ro.build.PDA=A155FXXS7CYG4
+ro.build.changelist=967114443
