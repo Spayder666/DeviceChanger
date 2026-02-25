@@ -1,14 +1,35 @@
-# ========== vendor/build.prop ==========
-# File 1 of 4
-# ============================================================
+ro.kernel=5.4.210-android13-11-00001-a0936ad0a17611
+ro.boot.hardware.sku=ums9230
+ro.build.expect.bootloader=r5-1.4-53705j58rfio
+ro.build.expect.baseband=8501_W23.14.3_d55b5e871
 
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia X20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-ro.boot.dynamic_partitions=true
-ro.product.first_api_level=30
-ro.vendor.build.security_patch=2022-11-05
-ro.vendor.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
-ro.vendor.product.cpu.abilist32=armeabi-v7a,armeabi
-ro.vendor.product.cpu.abilist64=arm64-v8a
+ro.build.id=TKQ1.220807.001
+ro.build.display.id=TKQ1.220807.001
+ro.build.version.incremental=00WW_3_360
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2022-11-05
+ro.build.description=ScarletWitch_00WW-user 13 TKQ1.220807.001 00WW_3_360 release-keys
+ro.build.fingerprint=Nokia/Quicksilver_00WW/QKS_sprout:13/TKQ1.220807.001/00WW_3_360:user/release-keys
+ro.build.type=user
+ro.build.flavor=ScarletWitch_00WW-user
+ro.build.user=jenkins
+ro.build.host=aeccf131ee6b
+ro.build.tags=release-keys
+ro.build.date=Fri Nov 11 11:29:47 UTC 2022
+ro.build.date.utc=1668166187
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia X20
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=QKS_sprout
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia X20
+ro.product.vendor.name=Quicksilver_00WW
+#####################
+
 ro.product.board=quicksv
 ro.board.platform=holi
 ro.hwui.use_vulkan=
@@ -25,11 +46,7 @@ ro.vendor.build.version.incremental=eng.jenkin.20221111.112947
 ro.vendor.build.version.release=11
 ro.vendor.build.version.release_or_codename=13
 ro.vendor.build.version.sdk=30
-ro.product.vendor.brand=Nokia
-ro.product.vendor.device=QKS_sprout
-ro.product.vendor.manufacturer=HMD Global
-ro.product.vendor.model=Nokia X20
-ro.product.vendor.name=Quicksilver_00WW
+
 # end common build properties
 #
 # BOOTIMAGE_BUILD_PROPERTIES
@@ -658,4 +675,5 @@ bluetooth.profile.pan.panu.enabled=true
 bluetooth.profile.pbap.server.enabled=true
 bluetooth.profile.sap.server.enabled=true
 # end of file
+
 
