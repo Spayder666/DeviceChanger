@@ -1,24 +1,24 @@
 device_model_name=Samsung SM-A155F Galaxy A15 A14
 
-ro.kernel=5.5.10-259502-abA155FXXU1AWKA
-ro.boot.hardware.sku=s5e9476
+ro.kernel=5.5.10-495023-abA155FXXU1AWKA
+ro.boot.hardware.sku=s5e1831
 ro.build.expect.bootloader=A155FXXU1AWKA
 ro.build.expect.baseband=A155FXXU1AWKA
 
 ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; SM-A155F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-ro.build.id=SP1A.210812.016
-ro.build.display.id=SP1A.210812.016.A155FXXU1AWKA
+ro.build.id=UP1A.231005.007
+ro.build.display.id=UP1A.231005.007.A155FXXU1AWKA
 ro.build.version.incremental=A155FXXU1AWKA
 ro.build.version.release=14
 ro.build.version.sdk=34
 ro.build.version.security_patch=2023-10-05
-ro.build.description=a15nsxx-user 14 SP1A.210812.016 A155FXXU1AWKA release-keys
-ro.build.fingerprint=samsung/a15nsxx/a15:12/SP1A.210812.016/A155FXXU1AWKA:user/release-keys
+ro.build.description=a15nsxx-user 14 UP1A.231005.007 A155FXXU1AWKA release-keys
+ro.build.fingerprint=samsung/a15nsxx/a15:14/UP1A.231005.007/A155FXXU1AWKA:user/release-keys
 ro.build.type=user
 ro.build.user=android-build
 ro.build.tags=release-keys
-ro.build.host=21DK7A08
+ro.build.host=SWDK6111
 ro.build.flavor=a15nsxx-user
 ro.build.date=Fri Nov 10 21:03:48 UTC 2023
 ro.build.date.utc=1700809908
