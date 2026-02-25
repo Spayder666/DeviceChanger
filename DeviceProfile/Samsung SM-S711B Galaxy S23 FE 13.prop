@@ -31,6 +31,7 @@ ro.product.vendor.manufacturer=Samsung
 ro.product.vendor.model=SM-S711B
 ro.product.vendor.name=r11sxxx
 #####################
+ro.build.product_code=SM-S711BZKAXAA
 ro.csc.sales_code=XAA
 ro.build.PDA=S711BXXS1AWJ7
 ro.build.changelist=26337730
