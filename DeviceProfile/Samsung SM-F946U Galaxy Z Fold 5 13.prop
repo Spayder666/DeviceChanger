@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-F946U Galaxy Z Fold 5 A13
+
+ro.kernel=5.4.183-259502-F946USQU1AWG4
+ro.boot.hardware.sku=s5e4082
+ro.build.expect.bootloader=F946USQU1AWG4
+ro.build.expect.baseband=F946USQU1AWG4
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-F946U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014.F946USQU1AWG4
+ro.build.version.incremental=F946USQU1AWG4
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-07-01
+ro.build.description=q5qsqw-user 13 TP1A.220624.014 F946USQU1AWG4 release-keys
+ro.build.fingerprint=samsung/q5qsqw/q5q:13/TP1A.220624.014/F946USQU1AWG4:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6719
+ro.build.flavor=q5qsqw-user
+ro.build.date=Fri Jul 6 02:37:45 UTC 2023
+ro.build.date.utc=1688697465
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-F946U
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=q5q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-F946U
+ro.product.vendor.name=q5qsqw
+#####################
+ro.build.PDA=F946USQU1AWG4
+ro.build.changelist=296711442
