@@ -1,0 +1,36 @@
+device_model_name=Pixel 4a (5G) - Bramble A13
+
+ro.kernel=4.14-android11-qpr3-4517-g4a58ab25bb-ab5782385
+ro.boot.hardware.sku=sm6150
+ro.build.expect.bootloader=b5-0.5-9430388
+ro.build.expect.baseband=g7250-00247.1-230113-B-9488784
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Pixel 4a (5G)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TQ2A.230305.008.C1
+ro.build.display.id=TQ2A.230305.008.C1
+ro.build.version.incremental=9619669
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-03-05
+ro.build.description=Bramble-user 13 TQ2A.230305.008.C1 9619669 release-keys
+ro.build.fingerprint=google/bramble/bramble:13/TQ2A.230305.008.C1/9619669:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-rbe-64-2004-0094
+ro.build.tags=release-keys
+ro.build.flavor=Bramble-user
+ro.build.date=Fri Feb 17 01:54:42 UTC 2023
+ro.build.date.utc=1676598882
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 4a (5G)
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Bramble
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 4a (5G)
+ro.product.vendor.name=Bramble
+#####################
+
+ro.product.board=Bramble
+ro.board.platform=sm6150
