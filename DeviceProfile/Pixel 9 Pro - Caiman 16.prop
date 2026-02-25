@@ -1,0 +1,33 @@
+device_model_name=Pixel 9 Pro - Caiman A16
+
+ro.kernel=5.15.4-android15-qpr6-4679-fdg13565-vcx94354809c
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5400c-250908-251105-B-14386369
+ro.build.expect.bootloader=ripcurrentpro-16.4-14097580
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Pixel 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP4A.251205.006
+ro.build.display.id=BP4A.251205.006
+ro.build.version.incremental=14401865
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-12-05
+ro.build.description=Caiman-user 16 BP4A.251205.006 14401865 release-keys
+ro.build.fingerprint=google/caiman/caiman:16/BP4A.251205.006/14401865:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=63f971f8f780
+ro.build.tags=release-keys
+ro.build.flavor=Caiman-user
+ro.build.date=Fri Nov  7 12:37:48 UTC 2025
+ro.build.date.utc=1762519068
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9 Pro
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Caiman
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9 Pro
+ro.product.vendor.name=Caiman
+#####################
