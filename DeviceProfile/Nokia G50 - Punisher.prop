@@ -1,0 +1,33 @@
+device_model_name=Nokia G50 - Punisher
+
+ro.kernel=4.4.210-android13-11-00001-gehb97645jgdvf6381
+ro.boot.hardware.sku=1h101
+ro.build.expect.bootloader=r5-1.4-705j58467hgj
+ro.build.expect.baseband=9461_W23.14.3_sb73c8e56
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; Nokia G50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TKQ1.220807.001
+ro.build.display.id=00WW_3_350
+ro.build.version.incremental=eng.jenkin.20240420.040629
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2024-05-05
+ro.build.description=Punisher_00WW-user 13 TKQ1.220807.001 eng.jenkin.20240420.040629 release-keys
+ro.build.fingerprint=Nokia/Punisher_00WW/PHR_sprout:13/TKQ1.220807.001/00WW_3_350:user/release-keys
+ro.build.type=user
+ro.build.flavor=Punisher_00WW-user
+ro.build.user=jenkins
+ro.build.host=f1c7ac0bd71c
+ro.build.tags=release-keys
+ro.build.date=Sat Apr 20 01:46:49 UTC 2024
+ro.build.date.utc=1713577609
+#####################
+ro.product.vendor.board=Nokia
+ro.product.hardware=Nokia G50
+ro.product.vendor.brand=Nokia
+ro.product.vendor.device=PHR_sprout
+ro.product.vendor.manufacturer=HMD Global
+ro.product.vendor.model=Nokia G50
+ro.product.vendor.name=Punisher_00WW
+#####################
