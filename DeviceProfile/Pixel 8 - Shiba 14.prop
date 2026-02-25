@@ -1,0 +1,33 @@
+device_model_name=Pixel 8 - Shiba A14
+
+ro.kernel=5.5.1-android14-5-00075-4798j638g9-dv
+ro.boot.hardware.sku=zuma
+ro.build.expect.baseband=g5300i-240308-240517-B-11857457
+ro.build.expect.bootloader=ripcurrent-14.5-11693900
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP2A.240605.024
+ro.build.display.id=AP2A.240605.024
+ro.build.version.incremental=11860263
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-06-05
+ro.build.description=shiba-user 14 AP2A.240605.024 11860263 release-keys
+ro.build.fingerprint=google/shiba/shiba:14/AP2A.240605.024/11860263:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-82b05a39f2cf359a-z8kw
+ro.build.tags=release-keys
+ro.build.flavor=shiba-user
+ro.build.date=Sat May 18 07:10:12 UTC 2024
+ro.build.date.utc=1716016212
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 8
+ro.product.product.brand=Google
+ro.product.vendor.device=Shiba
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 8
+ro.product.vendor.name=Shiba
+#####################
