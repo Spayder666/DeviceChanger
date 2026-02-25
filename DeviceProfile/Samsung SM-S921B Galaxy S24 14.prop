@@ -33,3 +33,5 @@ ro.product.vendor.name=e1sxxx
 #####################
 ro.build.PDA=S921BXXU1AWM9
 ro.build.changelist=28243294
+ro.build.product_code=SM-S921BZKAXAA
+ro.csc.sales_code=XAA
