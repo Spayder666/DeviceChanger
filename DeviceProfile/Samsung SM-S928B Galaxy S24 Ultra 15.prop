@@ -33,3 +33,5 @@ ro.product.system.name=e3qxxx
 #####################
 ro.build.PDA=S928BXXS4BYEC
 ro.build.changelist=967114443
+ro.build.product_code=SM-S928BZKAXAA
+ro.csc.sales_code=XAA
