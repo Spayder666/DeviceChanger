@@ -33,3 +33,5 @@ ro.product.vendor.name=r11sxxx
 #####################
 ro.build.PDA=S711BXXU6EYDA
 ro.build.changelist=29543898
+ro.build.product_code=SM-S711BZKAXAA
+ro.csc.sales_code=XAA
