@@ -1,0 +1,33 @@
+device_model_name=Pixel 9 Pro XL - Komodo A14
+
+ro.kernel=5.15-android14-qpr4-9421-bb99d5300-5v34k2x7230
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5400c-240718-240719-B-12112834
+ro.build.expect.bootloader=ripcurrentpro-14.6-12143045
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 14; Pixel 9 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AD1A.240530.047
+ro.build.display.id=AD1A.240530.047
+ro.build.version.incremental=12143574
+ro.build.version.release=14
+ro.build.version.sdk=34
+ro.build.version.security_patch=2024-08-05
+ro.build.description=komodo-user 14 AD1A.240530.047 12143574 release-keys
+ro.build.fingerprint=google/komodo/komodo:14/AD1A.240530.047/12143574:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-5ed19c9f6e4ddbc5-zj41
+ro.build.tags=release-keys
+ro.build.flavor=komodo-user
+ro.build.date=Fri Jul 26 03:50:45 UTC 2024
+ro.build.date.utc=1721965845
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9 Pro XL
+ro.product.vendor.brand=Google
+ro.product.vendor.device=Komodo
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9 Pro XL
+ro.product.vendor.name=Komodo
+#####################
