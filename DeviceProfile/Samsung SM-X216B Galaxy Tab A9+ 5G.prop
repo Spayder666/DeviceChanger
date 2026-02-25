@@ -31,5 +31,7 @@ ro.product.vendor.manufacturer=Samsung
 ro.product.vendor.model=SM-X216B
 ro.product.vendor.name=gta9pxxx
 #####################
-ro.build.PDA=S711BXXS1AWJ7
+ro.build.PDA=X216BXXS1AXA1
 ro.build.changelist=26337730
+ro.build.product_code=SM-X216BZKAXAA
+ro.csc.sales_code=XAA
