@@ -24,7 +24,7 @@ ro.build.date=Wed Feb 12 02:52:31 UTC 2025
 ro.build.date.utc=1739328751
 #####################
 ro.product.vendor.board=Google
-ro.product.hardware=Pixel 9 Pro
+ro.product.hardware=Pixel 9a
 ro.product.vendor.brand=Google
 ro.product.vendor.device=Tegu
 ro.product.vendor.manufacturer=Google
