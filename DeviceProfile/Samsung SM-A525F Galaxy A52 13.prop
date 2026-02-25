@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-A525F Galaxy A52 A13
+
+ro.kernel=5.4.183-259502-abA525FXXS6DWK2
+ro.boot.hardware.sku=s5e4769
+ro.build.expect.bootloader=A525FXXS6DWK2
+ro.build.expect.baseband=A525FXXS6DWK2
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 13; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=TP1A.220624.014
+ro.build.display.id=TP1A.220624.014.A525FXXS6DWK2
+ro.build.version.incremental=A525FXXS6DWK2
+ro.build.version.release=13
+ro.build.version.sdk=33
+ro.build.version.security_patch=2023-12-01
+ro.build.description=a52qnsxx-user 13 TP1A.220624.014 A525FXXS6DWK2 release-keys
+ro.build.fingerprint=samsung/a52qnsxx/a52q:13/TP1A.220624.014/A525FXXS6DWK2:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6603
+ro.build.flavor=a52qnsxx-user
+ro.date=Wed Nov 28 06:59:32 UTC 2023
+ro.date.utc=1701241172
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-A525F
+ro.product.vendor.brand=Samsung
+ro.product.system.device=a52q
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-A525F
+ro.product.system.name=a52qnsxx
+#####################
+ro.build.PDA=A525FXXS6DWK2
+ro.build.changelist=27100863
