@@ -1,0 +1,35 @@
+device_model_name=Samsung SM-S918B Galaxy S23 Ultra A15
+
+ro.kernel=5.4.183-259502-S918BXXU8DYD9
+ro.boot.hardware.sku=s5e9462
+ro.build.expect.bootloader=S918BXXU8DYD9
+ro.build.expect.baseband=S918BXXU8DYD9
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=AP3A.240905.015.A2
+ro.build.display.id=AP3A.240905.015.A2.S918BXXU8DYD9
+ro.build.version.incremental=S918BXXU8DYD9
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-01
+ro.build.description=dm3qxxx-user 15 AP3A.240905.015.A2 S918BXXU8DYD9 release-keys
+ro.build.fingerprint=samsung/dm3qxxx/dm3q:15/AP3A.240905.015.A2/S918BXXU8DYD9:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=21DJFC15
+ro.build.flavor=dm3qxxx-user
+ro.build.date=Tue Apr 16 00:32:49 UTC 2025
+ro.build.date.utc=1744683569
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-S918B
+ro.product.vendor.brand=Samsung
+ro.product.vendor.device=dm3q
+ro.product.vendor.manufacturer=Samsung
+ro.product.vendor.model=SM-S918B
+ro.product.vendor.name=dm3qxxx
+#####################
+ro.build.PDA=S918BXXU8DYD9
+ro.build.changelist=67771144202
