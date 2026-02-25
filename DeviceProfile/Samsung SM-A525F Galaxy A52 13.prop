@@ -33,3 +33,5 @@ ro.product.system.name=a52qnsxx
 #####################
 ro.build.PDA=A525FXXS6DWK2
 ro.build.changelist=27100863
+ro.build.product_code=SM-A525FZKAXAA
+ro.csc.sales_code=XAA
