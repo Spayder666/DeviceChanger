@@ -26,10 +26,10 @@ ro.build.date.utc=1693570925
 ro.product.vendor.board=Google1
 ro.product.hardware=Pixel 5
 ro.product.vendor.brand=google2
-ro.product.vendor.device=Redfin
+ro.product.vendor.device=Redfin1
 ro.product.vendor.manufacturer=Google3
 ro.product.vendor.model=Pixel 5
-ro.product.vendor.name=Redfin
+ro.product.vendor.name=Redfin2
 #####################
 
 ro.product.board=sunfish
@@ -44,5 +44,6 @@ ro.board.platform=lito
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SM7250
 ro.netflix.bsp_rev=Q7250-19133-1
+
 
 
