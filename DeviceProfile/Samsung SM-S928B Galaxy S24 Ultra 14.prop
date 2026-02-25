@@ -20,8 +20,8 @@ ro.build.user=android-build
 ro.build.tags=release-keys
 ro.build.host=21DND913
 ro.build.flavor=e3qxxx-user
-ro.date=Mon Feb 18 00:16:21 UTC 2025
-ro.date.utc=1739774421
+ro.build.date=Mon Feb 18 00:16:21 UTC 2025
+ro.build.date.utc=1739774421
 #####################
 ro.product.vendor.board=Samsung
 ro.product.hardware=SM-S928B
