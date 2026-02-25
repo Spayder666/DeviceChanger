@@ -23,7 +23,7 @@ ro.build.flavor=kirby_prc-user
 ro.build.date=Tue Apr 21 17:31:23 UTC 2025
 ro.build.date.utc=1745256683
 #####################
-ro.product.vendor.board=Lenovo
+ro.product.vendor.board=TB321FU
 ro.product.hardware=TB321FU
 ro.product.vendor.brand=Lenovo
 ro.product.vendor.device=TB321FU
