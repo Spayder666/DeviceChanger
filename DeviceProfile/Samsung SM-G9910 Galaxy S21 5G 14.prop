@@ -20,8 +20,8 @@ ro.build.user=android-build
 ro.build.tags=release-keys
 ro.build.host=21DK7A08
 ro.build.flavor=o1qzcx-user
-ro.date=Thu Apr 17 14:38:39 UTC 2024
-ro.date.utc=1713451119
+ro.build.date=Thu Apr 17 14:38:39 UTC 2024
+ro.build.date.utc=1713451119
 #####################
 ro.product.vendor.board=Samsung
 ro.product.hardware=SM-G9910
