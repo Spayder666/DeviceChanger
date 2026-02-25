@@ -13,7 +13,7 @@ ro.build.version.incremental=ZUXOS_1.1.10.032_250422_PRC
 ro.build.version.release=15
 ro.build.version.sdk=35
 ro.build.version.security_patch=2025-03-05
-ro.build.description=kirby_prc-user 15 AQ3A.240912.001 10754064 release-keys
+ro.build.description=kirby_prc-user 15 AQ3A.240912.001 ZUXOS_1.1.10.032_250422_PRC release-keys
 ro.build.fingerprint=Lenovo/kirby/TB321FU:15/AQ3A.240912.001/ZUXOS_1.1.10.032_250422_PRC:user/release-keys
 ro.build.type=user
 ro.build.user=buildslave
@@ -23,7 +23,7 @@ ro.build.flavor=kirby_prc-user
 ro.build.date=Tue Apr 21 17:31:23 UTC 2025
 ro.build.date.utc=1745256683
 #####################
-ro.product.vendor.board=Google
+ro.product.vendor.board=Lenovo
 ro.product.hardware=TB321FU
 ro.product.vendor.brand=Lenovo
 ro.product.vendor.device=TB321FU
