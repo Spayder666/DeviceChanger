@@ -1,0 +1,37 @@
+device_model_name=Samsung SM-M356B Galaxy M35 5G А16
+
+ro.kernel=5.10.1-258942-M356BXXU5CYI8
+ro.boot.hardware.sku=erd8835
+ro.build.expect.bootloader=M356BXXU5CYI8
+ro.build.expect.baseband=M356BXXU5CYI8
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; SM-M356B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP2A.250605.031.A3
+ro.build.display.id=BP2A.250605.031.A3.M356BXXU5CYI8
+ro.build.version.incremental=M356BXXU5CYI8
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-10-01
+ro.build.description=m35xxx-user 16 BP2A.250605.031.A3 M356BXXU5CYI8 release-keys
+ro.build.fingerprint=samsung/m35xxx/m35x:16/BP2A.250605.031.A3/M356BXXU5CYI8:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.tags=release-keys
+ro.build.host=SWDK6707
+ro.build.flavor=m35xxx-user
+ro.build.date=Wed Oct 22 10:07:58 UTC 2025
+ro.build.date.utc=1761127678
+#####################
+ro.product.vendor.board=Samsung
+ro.product.hardware=SM-M356B
+ro.product.vendor.brand=Samsung
+ro.product.system.device=m35x
+ro.product.system.manufacturer=samsung
+ro.product.system.model=SM-M356B
+ro.product.system.name=m35xxx
+#####################
+ro.build.PDA=M356BXXU5CYI8
+ro.build.changelist=31998945
+ro.build.product_code=SM-M356BZKAXAA
+ro.csc.sales_code=XAA
