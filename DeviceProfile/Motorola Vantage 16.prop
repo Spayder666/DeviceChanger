@@ -1,0 +1,35 @@
+device_model_name=Motorola Vantage A16
+ro.kernel=5.15.18-moto-android15-vantage-h47mrv89
+ro.boot.hardware.sku=XT2051-2
+ro.build.expect.bootloader=MBM-3.0-vantage-2d9bb4812-417942
+ro.build.expect.baseband=M8550_DE30_30.2276.01.75.24R
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Motorola Vantage) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=W2WV36M.55-25-ST2.2
+ro.build.display.id=W2WV36M.55-25-ST2.2
+ro.build.version.incremental=58c878
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2026-01-01
+ro.build.description=vantage_g-user 16 W2WV36M.55-25-ST2.2 58c878 release-keys
+ro.build.fingerprint=motorola/vantage_g/vantage:16/W2WV36M.55-25-ST2.2/58c878:user/release-keys
+ro.build.type=user
+ro.build.flavor=vantage_g-user
+ro.build.host=ilclbld223
+ro.build.user=hudsoncm
+ro.build.tags=release-keys
+ro.build.date.utc=1767597122
+ro.build.date=Mon Jan  5 07:12:02 UTC 2026
+#####################
+ro.product.vendor.board=Motorola
+ro.product.hardware=vantage_g
+ro.product.vendor.brand=Motorola
+ro.product.vendor.device=vantage
+ro.product.vendor.manufacturer=Motorola
+ro.product.vendor.model=vantage
+ro.product.vendor.name=vantage_g
+#####################
+
+ro.netflix.bsp_rev=Q8550-36432-1
+ro.mot.build.guid=27bf3b8ef8a8c8e
