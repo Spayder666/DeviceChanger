@@ -1,0 +1,33 @@
+device_model_name=Pixel 10 Pro XL - Mustang A16
+
+ro.kernel=6.0.2-android15-qpr3-0042-f72551-xt943c4490
+ro.boot.hardware.sku=zumapro
+ro.build.expect.bootloader=deepspace-1.0-13999461
+ro.build.expect.baseband=g5400i-250625-250711-B-13766579
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 16; Pixel 10 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BD3A.251005.003.W3
+ro.build.display.id=BD3A.251005.003.W3
+ro.build.version.incremental=14147046
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.build.version.security_patch=2025-10-05
+ro.build.description=mustang-user 16 BD3A.251005.003.W3 14147046 release-keys
+ro.build.fingerprint=google/mustang/mustang:16/BD3A.251005.003.W3/14147046:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=dcb50b81f8fb
+ro.build.tags=release-keys
+ro.build.flavor=mustang-user
+ro.build.date=Tue Sep 23 02:22:17 UTC 2025
+ro.build.date.utc=1758594137
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 10 Pro XL
+ro.product.vendor.brand=Google
+ro.product.vendor.device=mustang
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 10 Pro XL
+ro.product.vendor.name=mustang
+#####################
