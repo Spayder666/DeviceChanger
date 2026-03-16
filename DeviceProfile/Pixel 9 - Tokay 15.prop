@@ -1,0 +1,33 @@
+device_model_name=Pixel 9 - Tokay A15
+
+ro.kernel=5.15-android15-qpr3-0014-d00135c83-x3017vx9431
+ro.boot.hardware.sku=zumapro
+ro.build.expect.baseband=g5400c-241205-250127-B-12971716
+ro.build.expect.bootloader=ripcurrentpro-15.2-13237002
+
+ro.product.user.agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+ro.build.id=BP1A.250405.007
+ro.build.display.id=BP1A.250405.007
+ro.build.version.incremental=13240079
+ro.build.version.release=15
+ro.build.version.sdk=35
+ro.build.version.security_patch=2025-04-05
+ro.build.description=tokay-user 15 BP1A.250405.007 13240079 release-keys
+ro.build.fingerprint=google/tokay/tokay:15/BP1A.250405.007/13240079:user/release-keys
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=r-eaf9838018e7e7ac-v2kh
+ro.build.tags=release-keys
+ro.build.flavor=tokay-user
+ro.build.date=Wed Mar 19 17:27:17 UTC 2025
+ro.build.date.utc=1742405237
+#####################
+ro.product.vendor.board=Google
+ro.product.hardware=Pixel 9
+ro.product.vendor.brand=Google
+ro.product.vendor.device=tokay
+ro.product.vendor.manufacturer=Google
+ro.product.vendor.model=Pixel 9
+ro.product.vendor.name=tokay
+#####################
