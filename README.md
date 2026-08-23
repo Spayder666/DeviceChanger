@@ -132,7 +132,7 @@ Scope задаётся только в LSPosed Manager (`AutoScopeReceiver` от
 
 ### 3. Активировать лицензию
 
-На **Home** — кнопка замка / поле кода. Код выдаёт [@DeviceChanger_bot](https://t.me/DeviceChanger_bot) или на сайте. По истечении срока остальные вкладки закрываются.
+На **Home** — кнопка замка / поле кода. Код выдаёт [@DeviceChanger_bot](https://t.me/DeviceChanger_bot) или на сайте https://deviceschanger.org. По истечении срока остальные вкладки закрываются.
 
 ### 4. Базовый сценарий «другое устройство»
 
