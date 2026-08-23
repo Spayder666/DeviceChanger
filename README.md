@@ -50,10 +50,7 @@
 - [Help и Advanced](#help-настройки)
 - [Конфиги и пути](#конфиги-и-пути)
 - [LSPosed scope](#lsposed-scope--минимум)
-- [Сборка](#сборка)
 - [Отладка](#отладка)
-- [Документы в репозитории](#документы-в-репозитории)
-- [Разработка](#разработка-кратко)
 - [Предупреждение](#предупреждение)
 
 ---
@@ -76,7 +73,7 @@ flowchart LR
   end
 
   subgraph hooks["Хуки"]
-    LSP[LSPosed / XPL-ex]
+    LSP[LSPosed]
     ZYG[Zygisk-модули]
     KPM[KPM native]
   end
@@ -95,11 +92,11 @@ flowchart LR
 | --- | --- |
 | **Приложение** | UI, лицензия, запись конфигов, установка/обновление Cheetah_Prop, экспорт KPM, обои при первом запуске |
 | **Magisk / KernelSU — Cheetah_Prop** | `post-fs-data` / `service.sh`: свойства, зеркала конфигов, `device.kernel`, автозагрузка KPM |
-| **LSPosed / XPL-ex** | Java/Kotlin хуки в выбранных процессах (в т.ч. `system_server`, если **System Framework** в scope) |
+| **LSPosed** | Java/Kotlin хуки в выбранных процессах (в т.ч. `system_server`, если **System Framework** в scope) |
 | **Zygisk-модули** *(опционально)* | Hide (список приложений), MediaDrm, VPN Hide, камера StreamDC |
 | **KernelPatch KPM** *(опционально, APatch / KPatch)* | native: карты/пути (`susmap`), TUN (`tunhide`), **`uname()` syscall** (`unamehide`) |
 
-> Хуки читают актуальный конфиг из модуля и публичных зеркал (см. [Конфиги и пути](#конфиги-и-пути)).
+> Хуки читают актуальный конфиг из модуля и публичных зеркал.
 > В `system_server` **нельзя** опираться на `/data/local/tmp/…` (`shell_data_file` → AVC deny): GPS и часть XML читаются только из каталога модуля.
 
 ---
@@ -112,9 +109,9 @@ flowchart LR
 | Xposed | **LSPosed** (или XPL-ex). Классический Xposed не поддерживается |
 | Первый запуск | Разрешение root приложению |
 | Лицензия | Активный код доступа — без него доступны только **Home** и **Help** |
-| GPS / SIM / вышки | Модуль в LSPosed + scope: целевые приложения и **System Framework (`android`)** — см. [`SCOPE_REQUIREMENTS.md`](SCOPE_REQUIREMENTS.md) |
+| GPS / SIM / вышки | Модуль в LSPosed + scope: целевые приложения и **System Framework (`android`)** |
 
-> **KernelSU:** скрытие путей модуля ломает чтение зеркал. Проект дублирует данные в модуль и публичные зеркала осознанно — см. [`KSU.md`](KSU.md).
+> **KernelSU:** скрытие путей модуля ломает чтение зеркал. Проект дублирует данные в модуль и публичные зеркала осознанно.
 
 ---
 
