@@ -135,7 +135,7 @@ Scope задаётся только в LSPosed Manager (`AutoScopeReceiver` от
 
 ### 3. Активировать лицензию
 
-На **Home** — кнопка замка / поле кода. Код выдаёт [@DeviceChanger_bot](https://t.me/DeviceChanger_bot). По истечении срока остальные вкладки закрываются.
+На **Home** — кнопка замка / поле кода. Код выдаёт [@DeviceChanger_bot](https://t.me/DeviceChanger_bot) или на сайте. По истечении срока остальные вкладки закрываются.
 
 ### 4. Базовый сценарий «другое устройство»
 
@@ -237,10 +237,9 @@ Scope задаётся только в LSPosed Manager (`AutoScopeReceiver` от
 Готовые `.prop` профили (модель, brand, manufacturer, fingerprint, id, tags, kernel, UA, vendor, набор Build.*).
 
 1. Включить **Spoof**
-2. Загрузить список — репозиторий: [SpoofDevice](https://github.com/Spayder666/SpoofDevice)
-3. Выбрать профиль → перезагрузить
+2. Выбрать профиль → перезагрузить
 
-Как профиль превращается в `build.prop` / props модуля: [`BUILD_PROP_FROM_PROFILES.md`](BUILD_PROP_FROM_PROFILES.md).
+Как профиль превращается в `build.prop` / props модуля.
 
 **Ядро (Kernel release).** Java-хуки:
 
@@ -354,19 +353,6 @@ Per-app идентификаторы (свой Android ID и связанные 
 | Kernel release для KPM | `…/Cheetah_Prop/device.kernel` | `/data/local/tmp/device.kernel` |
 | Лицензия | `/data/misc/device_license.dat` | |
 
-Формат prefs — map Android SharedPreferences:
-
-```xml
-<map>
-    <string name="androidId">1234567890abcdef</string>
-    <boolean name="androidIdEnabled" value="true"/>
-    <boolean name="masterSwitchEnabled" value="true"/>
-    <boolean name="auto_spoof_gps_enabled" value="true"/>
-</map>
-```
-
-Централизация путей: `PathManager.kt`. Не копируйте старые гайды с `/sdcard/FakerIdPrefs.xml`.
-
 ---
 
 ## LSPosed scope — минимум
@@ -376,7 +362,7 @@ Per-app идентификаторы (свой Android ID и связанные 
 | GPS «для всех» | `android` (System Framework) + клиенты карт |
 | SIM / CellInfo / Settings «О телефоне» | целевые чекеры + `com.android.settings` |
 | LocationManagerService, часть telephony | `android`, при необходимости `com.android.phone` |
-| Web fingerprint / UA в Chrome | Chrome (и WebView-хосты) — см. [`FINGERPRINT_COM_VISITOR_ID.md`](FINGERPRINT_COM_VISITOR_ID.md) |
+| Web fingerprint / UA в Chrome | Chrome (и WebView-хосты)|
 | FLAG_SECURE / скриншоты | `android` + `com.android.systemui` |
 | Само приложение | `com.motorola.backup` (удобно для System Info) |
 
@@ -384,64 +370,11 @@ Per-app идентификаторы (свой Android ID и связанные 
 
 ---
 
-## Сборка
-
-Windows, из корня репозитория:
-
-```powershell
-.\gradlew compileDebugKotlin
-.\gradlew installDebug --no-configuration-cache
-.\gradlew assembleRelease
-```
-
-ZIP модуля: Gradle-задачи `prepareMagiskModule`, `packageMagiskModule` — см. `app/build.gradle.kts`. Скрипты модуля: `magisk_module/` и `app/src/main/assets/`.
-
-Release-подпись — keystore в `local.properties` (не коммитить).
-
----
-
-## Отладка
-
-```powershell
-adb logcat | findstr /i "LSPosed Cheetah Hook motorola.backup"
-adb shell cat /data/adb/modules/Cheetah_Prop/module.prop
-adb shell cat /data/adb/modules/Cheetah_Prop/FakerIdPrefs.xml
-adb shell getprop | findstr /i "fingerprint model manufacturer"
-```
-
 | Симптом | Что проверить |
 | --- | --- |
 | Два разных Kernel release | UnameHide KPM не загружен или нет `device.kernel` |
 | Хуки «молчат» | LSPosed выкл., нет scope, тумблер в FakerId, master switch, профиль Device, GPS |
 | Профили не грузятся | Сеть, URL репозитория, лог загрузчика |
-
----
-
-## Документы в репозитории
-
-| Файл | Тема |
-| --- | --- |
-| [`AGENTS.md`](AGENTS.md) | Цели проекта и правила разработки |
-| [`GUIDE_RU.md`](GUIDE_RU.md) | Краткая инструкция по использованию (RU) |
-| [`SCOPE_REQUIREMENTS.md`](SCOPE_REQUIREMENTS.md) | LSPosed scope для GPS / SIM / вышек |
-| [`KSU.md`](KSU.md) | KernelSU, hide путей, зеркала |
-| [`BUILD_PROP_FROM_PROFILES.md`](BUILD_PROP_FROM_PROFILES.md) | Профиль → props |
-| [`PLAY_INTEGRITY_RELEVANT_PROPERTIES.md`](PLAY_INTEGRITY_RELEVANT_PROPERTIES.md) | Свойства и целостность |
-| [`FINGERPRINT_COM_VISITOR_ID.md`](FINGERPRINT_COM_VISITOR_ID.md) | Web Visitor ID / Chrome |
-| [`PROP_FILE_KEYS.md`](PROP_FILE_KEYS.md) | Ключи .prop |
-
----
-
-## Разработка (кратко)
-
-| | |
-| --- | --- |
-| Код приложения и хуков | `app/src/main/java/com/motorola/backup/` |
-| Точка LSPosed | `app/src/main/assets/xposed_init` → `BootstrapHook` |
-| Новый scoped-хук | константа + `HookPolicyIds.ALL_META` + строка + `HOOK_CLASSES` + `shouldApply` — см. [`AGENTS.md`](AGENTS.md) |
-| UI | Jetpack Compose, Material 3, `DeviceAppShell.kt` |
-
-> Не добавлять blacklist пакетов из-за краша хука — чинить хук.
 
 ---
 
