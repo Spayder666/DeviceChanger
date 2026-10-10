@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0.1",
-  "downloadUrl": "https://deviceschanger.org/file?id=e953da063e09cda6",
-  "releaseNotes": "Update the app to the latest version"
+  "versionCode": 58,
+  "versionName": "155.0.8059.34-dc58",
+  "downloadUrl": "https://github.com/Spayder666/DeviceChanger/releases/download/dcbrowser-dc58/DCBrowser-155.0.8059.34-dc58-release.apk",
+  "releaseNotes": "Исправлен краш без конфига; полная изоляция профилей (cookies/вкладки/кеш); WebGL-шум; шум canvas/webgl/audio из приложения Device; прокси SOCKS5/HTTP с авторизацией; WebRTC без утечек; плитки на главной; проверка обновлений."
 }
