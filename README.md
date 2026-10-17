@@ -41,15 +41,6 @@
 | **compileSdk** | 36 |
 | **Языки UI** | English · Русский · 简体中文 |
 
-Этот репозиторий — канал обновлений и данные, не исходники приложения.
-
-| Файл | Зачем |
-| --- | --- |
-| [`update.json`](update.json) | Версия, ссылка и заметки к APK Devices Changer |
-| [`updatebrowser.json`](updatebrowser.json) | Сборка браузера для вкладки **Finger** |
-| [`DeviceProfile/`](https://github.com/Spayder666/DeviceChanger/tree/main/DeviceProfile) | Профили устройств, которые грузит **Hooks → Device** |
-| [`Keybox/`](https://github.com/Spayder666/DeviceChanger/tree/main/Keybox) | Файлы keybox для вкладки **Keybox** |
-
 ---
 
 ## Содержание
