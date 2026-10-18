@@ -23,6 +23,17 @@ Privacy · app testing · API checks against another phone
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><a href="screenshots/home.png"><img src="screenshots/thumbs/home.png" alt="Home" width="160"><br><b>Home</b></a></td>
+    <td align="center"><a href="screenshots/targets.png"><img src="screenshots/thumbs/targets.png" alt="Targets" width="160"><br><b>Targets</b></a></td>
+    <td align="center"><a href="screenshots/hooks.png"><img src="screenshots/thumbs/hooks.png" alt="Hooks" width="160"><br><b>Hooks</b></a></td>
+    <td align="center"><a href="screenshots/location.png"><img src="screenshots/thumbs/location.png" alt="Location" width="160"><br><b>Location</b></a></td>
+  </tr>
+</table>
+
 ## What it is
 
 **Devices Changer** (`com.motorola.backup`) is a control panel for a rooted phone. It presents a chosen device, network, and location to apps and to the system, so you can test software or keep a consistent identity.
