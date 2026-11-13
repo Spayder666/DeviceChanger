@@ -1,6 +1,1 @@
-{
-  "versionCode": 58,
-  "versionName": "155.0.8059.34-dc58",
-  "downloadUrl": "https://github.com/Spayder666/DeviceChanger/releases/download/dcbrowser-dc58/DCBrowser-155.0.8059.34-dc58-release.apk",
-  "releaseNotes": "Исправлен краш без конфига; полная изоляция профилей (cookies/вкладки/кеш); WebGL-шум; шум canvas/webgl/audio из приложения Device; прокси SOCKS5/HTTP с авторизацией; WebRTC без утечек; плитки на главной; проверка обновлений."
-}
+{"versionCode":59,"versionName":"155.0.8059.34-dc59","downloadUrl":"https://github.com/Spayder666/DeviceChanger/releases/download/dcbrowser-dc59/DCBrowser-155.0.8059.34-dc59-release.apk","releaseNotes":"dc59: шрифтовый allowlist (fonts.allowlist_csv), getImageData под гейтом canvas-режима, premul-инвариант фарбла, защита от SIGSEGV при недоступном профиле, FRE пропускается на свежей установке, фикс времени проверки в карточке обновлений, новый consistency-checker на chrome://dc (exit IP/гео vs конфиг)."}
